@@ -1,0 +1,22 @@
+.legend-container {
+    width: 250px;
+    height: 250px;
+}
+.legend-color {
+    width: 30px;
+    height: 30px;
+    border-radius: 25%;
+    margin-right: 0.5rem;
+}
+.legend-row{
+    display: flex;
+    align-items: center;
+    padding-left: 0.5rem;
+    margin-top: 0.5rem;
+}
+.legend-row h2 {
+    margin: 0.25rem;
+}
+.legend-container.closed {
+    height: 50px;
+}

@@ -1,0 +1,43 @@
+{
+    "nodes" : [
+        {
+            "id": "NineforNews",
+            "label": "NineforNews",
+            "totalArticles": 1000,
+            "amountOfConnections": 3
+        },
+        {
+            "id": "Xandernieuws",
+            "label": "Xandernieuws",
+            "totalArticles": 1000,
+            "amountOfConnections": 3
+        },
+        {
+            "id": "Nieuwsblik",
+            "label": "Nieuwsblik",
+            "totalArticles": 2351,
+            "amountOfConnections": 2
+        }
+    ],
+    "links": [
+
+        {
+            "source":  "Xandernieuws",
+            "target": "NineforNews",
+            "amountOfCopies": 2,
+            "Similarities": []
+        },
+        {
+            "source": "Xandernieuws",
+            "target":  "Nieuwsblik",
+            "amountOfCopies": 2,
+            "Similarities": []
+        },
+        {
+            "source":  "Nieuwsblik",
+            "target":  "NineforNews",
+            "amountOfCopies": 2,
+            "Similarities": []
+        }
+    ]
+}

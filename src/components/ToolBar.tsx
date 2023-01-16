@@ -10,7 +10,7 @@ import { UseThreshold } from "../hooks/useThreshold";
 import { Slider, styled } from "@mui/material";
 
 export const StyledSlider = styled(Slider)({
-    color: '#EEEEEE'
+    color: '#ECECEC'
   });
 
 export const ToolBar = () => {

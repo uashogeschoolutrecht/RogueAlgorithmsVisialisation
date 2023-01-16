@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.372827b4.css",
-    "main.js": "/static/js/main.b189bb63.js",
-    "static/media/hogeschool-utrecht-logo-black-and-white.png": "/static/media/hogeschool-utrecht-logo-black-and-white.d238ffe8c87e2d626fed.png",
-    "index.html": "/index.html",
-    "main.372827b4.css.map": "/static/css/main.372827b4.css.map",
-    "main.b189bb63.js.map": "/static/js/main.b189bb63.js.map"
+    "main.css": "/RogueAlgorithmsVisialisation/static/css/main.372827b4.css",
+    "main.js": "/RogueAlgorithmsVisialisation/static/js/main.be338ba6.js",
+    "static/media/hogeschool-utrecht-logo-black-and-white.png": "/RogueAlgorithmsVisialisation/static/media/hogeschool-utrecht-logo-black-and-white.d238ffe8c87e2d626fed.png",
+    "index.html": "/RogueAlgorithmsVisialisation/index.html",
+    "main.372827b4.css.map": "/RogueAlgorithmsVisialisation/static/css/main.372827b4.css.map",
+    "main.be338ba6.js.map": "/RogueAlgorithmsVisialisation/static/js/main.be338ba6.js.map"
   },
   "entrypoints": [
     "static/css/main.372827b4.css",
-    "static/js/main.b189bb63.js"
+    "static/js/main.be338ba6.js"
   ]
 }

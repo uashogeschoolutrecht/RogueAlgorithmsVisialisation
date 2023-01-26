@@ -1,10 +1,11 @@
+import { MultiDirectedGraph } from "graphology";
 import { GREY } from "../types/colors";
 import { NetworkGraph } from "../types/types";
 
 const MIN_NODE_SIZE = 1;
-const MAX_NODE_SIZE = 30;
+const MAX_NODE_SIZE = 20;
 const MIN_EDGE_SIZE = 1;
-const MAX_EDGE_SIZE = 5;
+const MAX_EDGE_SIZE = 4;
 
 export function calculateEgdeValue(val: number, minDegree: number, maxDegree: number){
     let size = ((val - minDegree) / (maxDegree - minDegree)) * 
@@ -49,7 +50,7 @@ export function getRandomPosition(){
 export function getColor(totalSource: number, totalTarget: number){
     let totalLinks = totalSource + totalTarget;
        if ( totalLinks <= 5)
-        return GREY;
+        return "#777777";
     let sourcePercent = (totalSource / totalLinks) * 100 ;
     let targetPercent = (totalTarget / totalLinks) * 100 ;
     if( sourcePercent > targetPercent){

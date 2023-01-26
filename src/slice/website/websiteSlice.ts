@@ -10,6 +10,7 @@ const initialState: IWebsite = {
       id: -1,
       label: "placeholder",
       totalArticles: -1,
+      totalArticlesScraped: -1,
       amountOfConnections: -1
     },
 }

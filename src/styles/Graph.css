@@ -30,3 +30,8 @@ p {
 .article-wrapper .row{
     padding-left: 0.2rem;
 }
+
+.wait .MuiBox-root {
+    width: 25vw;
+    height: 25vh;
+}

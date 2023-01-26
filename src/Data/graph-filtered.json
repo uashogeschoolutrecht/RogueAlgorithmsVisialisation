@@ -1,0 +1,7816 @@
+{
+  "nodes": [
+    {
+      "id": 61,
+      "label": "www.rtlnieuws.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2354,
+      "label": "www.fff.org",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 52,
+      "label": "www.stichting-jas.nl",
+      "totalArticles": 3000,
+      "amountOfConnections": 28,
+      "totalArticlesScraped": 3000
+    },
+    {
+      "id": 51,
+      "label": "expose-news.com",
+      "totalArticles": 0,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 105,
+      "label": "www.bbc.com",
+      "totalArticles": 0,
+      "amountOfConnections": 23,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 47,
+      "label": "apokalypsnu.nl",
+      "totalArticles": 77772,
+      "amountOfConnections": 228,
+      "totalArticlesScraped": 695
+    },
+    {
+      "id": 90,
+      "label": "swprs.org",
+      "totalArticles": 630,
+      "amountOfConnections": 55,
+      "totalArticlesScraped": 630
+    },
+    {
+      "id": 69,
+      "label": "www.vrt.be",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 177,
+      "label": "eindtijdklok.org",
+      "totalArticles": 558,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 558
+    },
+    {
+      "id": 49,
+      "label": "eenheid.be",
+      "totalArticles": 1908,
+      "amountOfConnections": 39,
+      "totalArticlesScraped": 880
+    },
+    {
+      "id": 82,
+      "label": "thewatchtowers.org",
+      "totalArticles": 4590,
+      "amountOfConnections": 177,
+      "totalArticlesScraped": 850
+    },
+    {
+      "id": 80,
+      "label": "www.climategate.nl",
+      "totalArticles": 1713,
+      "amountOfConnections": 44,
+      "totalArticlesScraped": 940
+    },
+    {
+      "id": 85,
+      "label": "www.dcclothesline.com",
+      "totalArticles": 5710,
+      "amountOfConnections": 272,
+      "totalArticlesScraped": 1323
+    },
+    {
+      "id": 95,
+      "label": "robscholtemuseum.nl",
+      "totalArticles": 17899,
+      "amountOfConnections": 27,
+      "totalArticlesScraped": 725
+    },
+    {
+      "id": 62,
+      "label": "www.trouw.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 108,
+      "label": "www.infosperber.ch",
+      "totalArticles": 3021,
+      "amountOfConnections": 40,
+      "totalArticlesScraped": 610
+    },
+    {
+      "id": 87,
+      "label": "www.theguardian.com",
+      "totalArticles": 0,
+      "amountOfConnections": 37,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 81,
+      "label": "creativedestructionmedia.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 76,
+      "label": "medium.com",
+      "totalArticles": 0,
+      "amountOfConnections": 45,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 103,
+      "label": "www.middleeastmonitor.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 409,
+      "label": "www.economist.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 84,
+      "label": "themostimportantnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 63,
+      "label": "www.nrc.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 769,
+      "label": "liberalsarenuts.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 320,
+      "label": "www.massresistance.org",
+      "totalArticles": 245,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 245
+    },
+    {
+      "id": 206,
+      "label": "www.linkedin.com",
+      "totalArticles": 0,
+      "amountOfConnections": 78,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 323,
+      "label": "www.rightjournalism.com",
+      "totalArticles": 1834,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 550
+    },
+    {
+      "id": 4332,
+      "label": "nw-connection.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 228,
+      "label": "www.foxnews.com",
+      "totalArticles": 746455,
+      "amountOfConnections": 35,
+      "totalArticlesScraped": 990
+    },
+    {
+      "id": 230,
+      "label": "quoiure.nl",
+      "totalArticles": 712,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 712
+    },
+    {
+      "id": 306,
+      "label": "freedomnewsusa.com",
+      "totalArticles": 1975,
+      "amountOfConnections": 70,
+      "totalArticlesScraped": 510
+    },
+    {
+      "id": 50,
+      "label": "dissident.one",
+      "totalArticles": 5917,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 720
+    },
+    {
+      "id": 216,
+      "label": "www.msn.com",
+      "totalArticles": 0,
+      "amountOfConnections": 29,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 129,
+      "label": "www.globalresearch.ca",
+      "totalArticles": 19128,
+      "amountOfConnections": 371,
+      "totalArticlesScraped": 755
+    },
+    {
+      "id": 319,
+      "label": "dailysurge.com",
+      "totalArticles": 3387,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 780
+    },
+    {
+      "id": 109,
+      "label": "urs-raschle.ch",
+      "totalArticles": 616,
+      "amountOfConnections": 28,
+      "totalArticlesScraped": 616
+    },
+    {
+      "id": 179,
+      "label": "www.businessinsider.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 195,
+      "label": "www.dinekevankooten.nl",
+      "totalArticles": 1757,
+      "amountOfConnections": 87,
+      "totalArticlesScraped": 735
+    },
+    {
+      "id": 274,
+      "label": "www.dewereldmorgen.be",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1707,
+      "label": "www.trtworld.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 252,
+      "label": "www.derepublikein.nl",
+      "totalArticles": 137,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 137
+    },
+    {
+      "id": 1952,
+      "label": "fpif.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 978,
+      "label": "www.politico.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 224,
+      "label": "www.verminder-electrosmog.nl",
+      "totalArticles": 219,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 219
+    },
+    {
+      "id": 321,
+      "label": "www.thedailybeast.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 297,
+      "label": "www.breitbart.com",
+      "totalArticles": 0,
+      "amountOfConnections": 48,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 171,
+      "label": "www.tref.eu",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 310,
+      "label": "www.washingtonexaminer.com",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 293,
+      "label": "fightingmonarch.com",
+      "totalArticles": 466,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 466
+    },
+    {
+      "id": 309,
+      "label": "sonsoflibertymedia.com",
+      "totalArticles": 12001,
+      "amountOfConnections": 203,
+      "totalArticlesScraped": 910
+    },
+    {
+      "id": 275,
+      "label": "verenoflood.nu",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 156,
+      "label": "opiniez.com",
+      "totalArticles": 1222,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 770
+    },
+    {
+      "id": 148,
+      "label": "deblauwetijger.com",
+      "totalArticles": 726,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 726
+    },
+    {
+      "id": 193,
+      "label": "www.viruswaanzin.be",
+      "totalArticles": 655,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 350
+    },
+    {
+      "id": 113,
+      "label": "beforeitsnews.com",
+      "totalArticles": 514346,
+      "amountOfConnections": 220,
+      "totalArticlesScraped": 628
+    },
+    {
+      "id": 287,
+      "label": "stralingsleed.nl",
+      "totalArticles": 446,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 200
+    },
+    {
+      "id": 289,
+      "label": "stralingsbewust.info",
+      "totalArticles": 218,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 218
+    },
+    {
+      "id": 264,
+      "label": "www.snopes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 172,
+      "label": "www.volkskrant.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 41,
+      "label": "www.xandernieuws.net",
+      "totalArticles": 444,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 444
+    },
+    {
+      "id": 299,
+      "label": "www.thesun.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 273,
+      "label": "www.nature.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 118,
+      "label": "wallstreetexaminer.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 122,
+      "label": "www.defenddemocracy.press",
+      "totalArticles": 0,
+      "amountOfConnections": 28,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1953,
+      "label": "thewarsan.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 229,
+      "label": "www.news.yahoo.com",
+      "totalArticles": 0,
+      "amountOfConnections": 63,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 115,
+      "label": "seekingalpha.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 235,
+      "label": "niburu.co",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 125,
+      "label": "www.independent.co.uk",
+      "totalArticles": 459056,
+      "amountOfConnections": 23,
+      "totalArticlesScraped": 605
+    },
+    {
+      "id": 190,
+      "label": "www.saulsplacehq.com",
+      "totalArticles": 2201,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 685
+    },
+    {
+      "id": 318,
+      "label": "www.bbc.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 281,
+      "label": "truthunmuted.org",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 48,
+      "label": "jdreport.com",
+      "totalArticles": 14,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 14
+    },
+    {
+      "id": 226,
+      "label": "www.abc.net.au",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 116,
+      "label": "www.oftwominds.com",
+      "totalArticles": 1736,
+      "amountOfConnections": 119,
+      "totalArticlesScraped": 675
+    },
+    {
+      "id": 316,
+      "label": "www.westernjournal.com",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 211,
+      "label": "www.cnn.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 126,
+      "label": "www.azerbaycan24.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 325,
+      "label": "www.projectveritasaction.com",
+      "totalArticles": 14,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 14
+    },
+    {
+      "id": 46,
+      "label": "www.ninefornews.nl",
+      "totalArticles": 4025,
+      "amountOfConnections": 37,
+      "totalArticlesScraped": 910
+    },
+    {
+      "id": 326,
+      "label": "www.dailyconservativescoop.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 176,
+      "label": "www.metronieuws.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 117,
+      "label": "talkmarkets.com",
+      "totalArticles": 10031,
+      "amountOfConnections": 198,
+      "totalArticlesScraped": 835
+    },
+    {
+      "id": 140,
+      "label": "www.pointer.kro-ncrv.nl",
+      "totalArticles": 3748,
+      "amountOfConnections": 32,
+      "totalArticlesScraped": 485
+    },
+    {
+      "id": 305,
+      "label": "100percentfedup.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 301,
+      "label": "www.cbsnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 23,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 298,
+      "label": "welovetrump.com",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 267,
+      "label": "www.nytimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 124,
+      "label": "www.aol.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 315,
+      "label": "www.newswars.com",
+      "totalArticles": 0,
+      "amountOfConnections": 62,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 770,
+      "label": "www.theburningplatform.com",
+      "totalArticles": 25212,
+      "amountOfConnections": 336,
+      "totalArticlesScraped": 755
+    },
+    {
+      "id": 465,
+      "label": "colombogazette.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1955,
+      "label": "newslettercollector.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 328,
+      "label": "www.frontpagemag.com",
+      "totalArticles": 1,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 1
+    },
+    {
+      "id": 485,
+      "label": "www.timebomb2000.com",
+      "totalArticles": 0,
+      "amountOfConnections": 50,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 418,
+      "label": "www.cnbc.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 434,
+      "label": "www.thenationalnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 483,
+      "label": "scheerpost.com",
+      "totalArticles": 2698,
+      "amountOfConnections": 234,
+      "totalArticlesScraped": 830
+    },
+    {
+      "id": 487,
+      "label": "www.observerbd.com",
+      "totalArticles": 2,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 2
+    },
+    {
+      "id": 513,
+      "label": "www.thehindu.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 457,
+      "label": "thediplomat.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 425,
+      "label": "www.hrw.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 332,
+      "label": "redstate.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 424,
+      "label": "www.firstpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 507,
+      "label": "indianexpress.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 331,
+      "label": "www.thegatewaypundit.com",
+      "totalArticles": 0,
+      "amountOfConnections": 44,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 446,
+      "label": "www.economictimes.indiatimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 508,
+      "label": "thewire.in",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 341,
+      "label": "thefederalistpapers.org",
+      "totalArticles": 4983,
+      "amountOfConnections": 119,
+      "totalArticlesScraped": 765
+    },
+    {
+      "id": 367,
+      "label": "www.forbes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 381,
+      "label": "promosaiknews.com",
+      "totalArticles": 1565,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 740
+    },
+    {
+      "id": 388,
+      "label": "leadstories.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 387,
+      "label": "lightonconspiracies.com",
+      "totalArticles": 8811,
+      "amountOfConnections": 83,
+      "totalArticlesScraped": 725
+    },
+    {
+      "id": 372,
+      "label": "www.unz.com",
+      "totalArticles": 0,
+      "amountOfConnections": 53,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 348,
+      "label": "www.theatlantic.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 342,
+      "label": "newspunch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 383,
+      "label": "nationalvanguard.org",
+      "totalArticles": 2190,
+      "amountOfConnections": 75,
+      "totalArticlesScraped": 685
+    },
+    {
+      "id": 346,
+      "label": "www.businessinsider.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 339,
+      "label": "www.spiked-online.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 379,
+      "label": "www.oom2.com",
+      "totalArticles": 0,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 395,
+      "label": "www.latimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 376,
+      "label": "www.5gradar.com",
+      "totalArticles": 843,
+      "amountOfConnections": 67,
+      "totalArticlesScraped": 680
+    },
+    {
+      "id": 358,
+      "label": "www.theweek.in",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 333,
+      "label": "www.pbs.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 335,
+      "label": "www.naturalnews.com",
+      "totalArticles": 500,
+      "amountOfConnections": 90,
+      "totalArticlesScraped": 500
+    },
+    {
+      "id": 369,
+      "label": "www.stripersonline.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 398,
+      "label": "www.commondreams.org",
+      "totalArticles": 0,
+      "amountOfConnections": 45,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 356,
+      "label": "breakingfirst.com",
+      "totalArticles": 1732,
+      "amountOfConnections": 72,
+      "totalArticlesScraped": 625
+    },
+    {
+      "id": 403,
+      "label": "www.wsws.org",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 386,
+      "label": "www.standard.co.uk",
+      "totalArticles": 252307,
+      "amountOfConnections": 87,
+      "totalArticlesScraped": 835
+    },
+    {
+      "id": 340,
+      "label": "bongino.com",
+      "totalArticles": 14,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 14
+    },
+    {
+      "id": 363,
+      "label": "stillnessinthestorm.com",
+      "totalArticles": 18062,
+      "amountOfConnections": 191,
+      "totalArticlesScraped": 745
+    },
+    {
+      "id": 350,
+      "label": "threadreaderapp.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 347,
+      "label": "www.eastonspectator.com",
+      "totalArticles": 12736,
+      "amountOfConnections": 183,
+      "totalArticlesScraped": 880
+    },
+    {
+      "id": 365,
+      "label": "www.newsfromtheperimeter.com",
+      "totalArticles": 9684,
+      "amountOfConnections": 254,
+      "totalArticlesScraped": 625
+    },
+    {
+      "id": 392,
+      "label": "reliefweb.int",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 366,
+      "label": "www.technicalpolitics.com",
+      "totalArticles": 1226,
+      "amountOfConnections": 269,
+      "totalArticlesScraped": 865
+    },
+    {
+      "id": 343,
+      "label": "neonnettle.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 773,
+      "label": "freedom4um.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 359,
+      "label": "www.devdiscourse.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 77,
+      "label": "davidicke.com",
+      "totalArticles": 25461,
+      "amountOfConnections": 300,
+      "totalArticlesScraped": 642
+    },
+    {
+      "id": 360,
+      "label": "www.tribuneindia.com",
+      "totalArticles": 43,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 43
+    },
+    {
+      "id": 393,
+      "label": "moderndiplomacy.eu",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 337,
+      "label": "www.npr.org",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 397,
+      "label": "nymag.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 384,
+      "label": "www.mirror.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 511,
+      "label": "www.edition.cnn.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 453,
+      "label": "www.scoop.co.nz",
+      "totalArticles": 3212,
+      "amountOfConnections": 152,
+      "totalArticlesScraped": 710
+    },
+    {
+      "id": 408,
+      "label": "www.voanews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 414,
+      "label": "www.washingtontimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 484,
+      "label": "federalinquirer.com",
+      "totalArticles": 0,
+      "amountOfConnections": 23,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 461,
+      "label": "www.colombotelegraph.com",
+      "totalArticles": 4811,
+      "amountOfConnections": 101,
+      "totalArticlesScraped": 840
+    },
+    {
+      "id": 529,
+      "label": "www.euronews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 405,
+      "label": "www.huffpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 532,
+      "label": "www.thoughtco.com",
+      "totalArticles": 7247,
+      "amountOfConnections": 33,
+      "totalArticlesScraped": 780
+    },
+    {
+      "id": 477,
+      "label": "www.newagebd.net",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 426,
+      "label": "gulfnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 401,
+      "label": "www.salon.com",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1468,
+      "label": "wethepundit.com",
+      "totalArticles": 6898,
+      "amountOfConnections": 87,
+      "totalArticlesScraped": 765
+    },
+    {
+      "id": 515,
+      "label": "www.networkideas.org",
+      "totalArticles": 827,
+      "amountOfConnections": 138,
+      "totalArticlesScraped": 770
+    },
+    {
+      "id": 478,
+      "label": "www.bmj.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 13754,
+      "label": "www.investmacro.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 422,
+      "label": "astutenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 67,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 449,
+      "label": "www.haaretz.com",
+      "totalArticles": 41018,
+      "amountOfConnections": 46,
+      "totalArticlesScraped": 645
+    },
+    {
+      "id": 470,
+      "label": "theconversation.com",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 469,
+      "label": "southasiajournal.net",
+      "totalArticles": 4338,
+      "amountOfConnections": 305,
+      "totalArticlesScraped": 900
+    },
+    {
+      "id": 521,
+      "label": "www.tasnimnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 454,
+      "label": "www.radiofree.org",
+      "totalArticles": 0,
+      "amountOfConnections": 30,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 503,
+      "label": "thescribe.in",
+      "totalArticles": 310,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 310
+    },
+    {
+      "id": 488,
+      "label": "www.daily-sun.com",
+      "totalArticles": 17520,
+      "amountOfConnections": 170,
+      "totalArticlesScraped": 835
+    },
+    {
+      "id": 680,
+      "label": "hycregatta.org",
+      "totalArticles": 133048,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 825
+    },
+    {
+      "id": 402,
+      "label": "responsiblestatecraft.org",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 404,
+      "label": "asiatimes.com",
+      "totalArticles": 16891,
+      "amountOfConnections": 75,
+      "totalArticlesScraped": 470
+    },
+    {
+      "id": 416,
+      "label": "oilprice.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 464,
+      "label": "www.newindianexpress.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2016,
+      "label": "natyliesbaldwin.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 471,
+      "label": "www.globaltimes.cn",
+      "totalArticles": 78,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 78
+    },
+    {
+      "id": 3482,
+      "label": "investorshangout.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 504,
+      "label": "www.uncommonthought.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 522,
+      "label": "palestina-komitee.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 472,
+      "label": "www.lankaweb.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 442,
+      "label": "www.ieyenews.com",
+      "totalArticles": 14,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 14
+    },
+    {
+      "id": 496,
+      "label": "dailyasianage.com",
+      "totalArticles": 37,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 37
+    },
+    {
+      "id": 445,
+      "label": "laptrinhx.com",
+      "totalArticles": 0,
+      "amountOfConnections": 102,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 451,
+      "label": "countercurrents.org",
+      "totalArticles": 0,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 501,
+      "label": "www.transcend.org",
+      "totalArticles": 0,
+      "amountOfConnections": 46,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 994,
+      "label": "lobbyistsforcitizens.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 538,
+      "label": "www.deccanchronicle.com",
+      "totalArticles": 58,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 58
+    },
+    {
+      "id": 436,
+      "label": "www.ndtv.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 841,
+      "label": "www.pubmed.ncbi.nlm.nih.gov",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 837,
+      "label": "txwclp.org",
+      "totalArticles": 5469,
+      "amountOfConnections": 193,
+      "totalArticlesScraped": 745
+    },
+    {
+      "id": 802,
+      "label": "humansbefree.com",
+      "totalArticles": 3000,
+      "amountOfConnections": 297,
+      "totalArticlesScraped": 642
+    },
+    {
+      "id": 946,
+      "label": "www.lawenforcementtoday.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 816,
+      "label": "cairnsnews.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 900,
+      "label": "williambowles.info",
+      "totalArticles": 0,
+      "amountOfConnections": 58,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 820,
+      "label": "www.spectator.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 787,
+      "label": "personalliberty.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 921,
+      "label": "childrenshealthdefense.org",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 851,
+      "label": "straightlinelogic.com",
+      "totalArticles": 1001,
+      "amountOfConnections": 81,
+      "totalArticlesScraped": 825
+    },
+    {
+      "id": 906,
+      "label": "unherd.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 864,
+      "label": "townhall.com",
+      "totalArticles": 0,
+      "amountOfConnections": 35,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 873,
+      "label": "thesaker.is",
+      "totalArticles": 13440,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 600
+    },
+    {
+      "id": 881,
+      "label": "thirdexodus.media",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 793,
+      "label": "popularresistance.org",
+      "totalArticles": 0,
+      "amountOfConnections": 46,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 805,
+      "label": "thegrayzone.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 799,
+      "label": "www.winterwatch.net",
+      "totalArticles": 3681,
+      "amountOfConnections": 285,
+      "totalArticlesScraped": 835
+    },
+    {
+      "id": 826,
+      "label": "www.express.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 825,
+      "label": "americanfreepress.net",
+      "totalArticles": 3758,
+      "amountOfConnections": 70,
+      "totalArticlesScraped": 715
+    },
+    {
+      "id": 913,
+      "label": "wearechange.org",
+      "totalArticles": 0,
+      "amountOfConnections": 27,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 899,
+      "label": "riseuptimes.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 779,
+      "label": "www.france24.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 775,
+      "label": "www.woolstangray.eu",
+      "totalArticles": 3663,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 920
+    },
+    {
+      "id": 948,
+      "label": "www.ronpaulamerica.com",
+      "totalArticles": 2427,
+      "amountOfConnections": 27,
+      "totalArticlesScraped": 860
+    },
+    {
+      "id": 785,
+      "label": "theconservativetreehouse.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 878,
+      "label": "intifada.world",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 908,
+      "label": "www.swissinfo.ch",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 947,
+      "label": "www.independentsentinel.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 810,
+      "label": "www.the-sun.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 895,
+      "label": "launchliberty.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 901,
+      "label": "leagueofindia.com",
+      "totalArticles": 282,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 282
+    },
+    {
+      "id": 780,
+      "label": "www.sites.google.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 915,
+      "label": "historyreviewed.best",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 272,
+      "label": "www.reuters.com",
+      "totalArticles": 0,
+      "amountOfConnections": 29,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2080,
+      "label": "freepress.org",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 880,
+      "label": "yogaesoteric.net",
+      "totalArticles": 25628,
+      "amountOfConnections": 369,
+      "totalArticlesScraped": 785
+    },
+    {
+      "id": 950,
+      "label": "i-uv.com",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 938,
+      "label": "thenewstalkers.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 791,
+      "label": "jellyfish.news",
+      "totalArticles": 39004,
+      "amountOfConnections": 61,
+      "totalArticlesScraped": 620
+    },
+    {
+      "id": 954,
+      "label": "thefallingdarkness.com",
+      "totalArticles": 3284,
+      "amountOfConnections": 313,
+      "totalArticlesScraped": 845
+    },
+    {
+      "id": 829,
+      "label": "www.euvolution.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 890,
+      "label": "richardsonpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 923,
+      "label": "www.delreport.com",
+      "totalArticles": 1007,
+      "amountOfConnections": 365,
+      "totalArticlesScraped": 350
+    },
+    {
+      "id": 937,
+      "label": "jonathanturley.org",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 907,
+      "label": "www.lifesitenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 46,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 490,
+      "label": "citizentruth.org",
+      "totalArticles": 1446,
+      "amountOfConnections": 67,
+      "totalArticlesScraped": 950
+    },
+    {
+      "id": 815,
+      "label": "www.opensourcetruth.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 839,
+      "label": "fee.org",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 928,
+      "label": "reason.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 844,
+      "label": "www.yahoo.com",
+      "totalArticles": 0,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2362,
+      "label": "www.communistnews.net",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 905,
+      "label": "pjmedia.com",
+      "totalArticles": 0,
+      "amountOfConnections": 30,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 828,
+      "label": "www.juancole.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 850,
+      "label": "www.themoscowtimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 811,
+      "label": "www.intrepidreport.com",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 953,
+      "label": "geopolitics.co",
+      "totalArticles": 0,
+      "amountOfConnections": 46,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 853,
+      "label": "veritybase.info",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 865,
+      "label": "www.wnd.com",
+      "totalArticles": 0,
+      "amountOfConnections": 34,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 795,
+      "label": "bsnews.info",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 867,
+      "label": "fair.org",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 876,
+      "label": "www.veteranstoday.com",
+      "totalArticles": 0,
+      "amountOfConnections": 37,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 824,
+      "label": "www.thestandardsc.org",
+      "totalArticles": 740,
+      "amountOfConnections": 115,
+      "totalArticlesScraped": 490
+    },
+    {
+      "id": 903,
+      "label": "conservativedailypost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 860,
+      "label": "www.thethinkingconservative.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 813,
+      "label": "gellerreport.com",
+      "totalArticles": 0,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 783,
+      "label": "www.news.alayham.com",
+      "totalArticles": 0,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 812,
+      "label": "www.rferl.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 833,
+      "label": "www.nakedcapitalism.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 874,
+      "label": "portside.org",
+      "totalArticles": 0,
+      "amountOfConnections": 24,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 790,
+      "label": "www.defenddemocracy.press",
+      "totalArticles": 0,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 764,
+      "label": "www.dlmplus.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 792,
+      "label": "www.handsoffiran.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 882,
+      "label": "www.mixedtimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 934,
+      "label": "newswithviews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 866,
+      "label": "www.who.int",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1027,
+      "label": "www.henrymakow.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1034,
+      "label": "www.thetreeofliberty.com",
+      "totalArticles": 0,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 963,
+      "label": "www.thenation.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1002,
+      "label": "www.zerohedge.com",
+      "totalArticles": 0,
+      "amountOfConnections": 37,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 988,
+      "label": "prophecyofnoah.com",
+      "totalArticles": 1,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 1
+    },
+    {
+      "id": 1547,
+      "label": "ronpaulinstitute.org",
+      "totalArticles": 0,
+      "amountOfConnections": 28,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1021,
+      "label": "www.lifenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1012,
+      "label": "amgreatness.com",
+      "totalArticles": 0,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1004,
+      "label": "awakecanada.org",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1039,
+      "label": "www.dailywire.com",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1022,
+      "label": "www.livescience.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1007,
+      "label": "www.goal.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1036,
+      "label": "www.abbevilleinstitute.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 961,
+      "label": "www.amren.news",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 972,
+      "label": "dailycaller.com",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 973,
+      "label": "legalinsurrection.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 506,
+      "label": "www.newsweek.com",
+      "totalArticles": 0,
+      "amountOfConnections": 26,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1378,
+      "label": "www.theglobeandmail.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1371,
+      "label": "www.technocracy.news",
+      "totalArticles": 0,
+      "amountOfConnections": 30,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1383,
+      "label": "waikanaewatch.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1042,
+      "label": "thebluestateconservative.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1372,
+      "label": "www.2ndsmartestguyintheworld.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1345,
+      "label": "americanfaith.com",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1331,
+      "label": "www.motherjones.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1343,
+      "label": "www.soonerpolitics.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2359,
+      "label": "transnational.live",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1040,
+      "label": "hornobservers.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1234,
+      "label": "www.biznews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1041,
+      "label": "www.fourwinds10.com",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1363,
+      "label": "www.bostonglobe.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1335,
+      "label": "www.scientificamerican.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1076,
+      "label": "www.a-w-i-p.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1046,
+      "label": "thetruthaboutvaccines.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1049,
+      "label": "crimeofthecentury2020.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1064,
+      "label": "clashdaily.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1059,
+      "label": "darkoutpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1081,
+      "label": "www.telegraph.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1083,
+      "label": "www.thepeoplesvoice.org",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1100,
+      "label": "www.informationclearinghouse.info",
+      "totalArticles": 10,
+      "amountOfConnections": 31,
+      "totalArticlesScraped": 10
+    },
+    {
+      "id": 1106,
+      "label": "www.theoccidentalobserver.net",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1050,
+      "label": "besacenter.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1053,
+      "label": "nworeport.me",
+      "totalArticles": 0,
+      "amountOfConnections": 76,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1087,
+      "label": "federalobserver.com",
+      "totalArticles": 1694,
+      "amountOfConnections": 65,
+      "totalArticlesScraped": 675
+    },
+    {
+      "id": 1065,
+      "label": "libertyfirst.org",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1072,
+      "label": "truthout.org",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2851,
+      "label": "infiniteunknown.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1078,
+      "label": "rinf.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1052,
+      "label": "thetruedefender.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1093,
+      "label": "strategic-culture.org",
+      "totalArticles": 313,
+      "amountOfConnections": 84,
+      "totalArticlesScraped": 313
+    },
+    {
+      "id": 1109,
+      "label": "www.chicagotribune.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1091,
+      "label": "revolutionradio.org",
+      "totalArticles": 0,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1051,
+      "label": "thetruereporter.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1045,
+      "label": "www.nzherald.co.nz",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1426,
+      "label": "www.dailykos.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1414,
+      "label": "www.dagelijksestandaard.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1255,
+      "label": "www.aier.org",
+      "totalArticles": 0,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1396,
+      "label": "roserambles.org",
+      "totalArticles": 0,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1423,
+      "label": "fvd.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1442,
+      "label": "headlineusa.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 357,
+      "label": "thehill.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 801,
+      "label": "newamericangovernment.org",
+      "totalArticles": 259,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 259
+    },
+    {
+      "id": 1418,
+      "label": "tref.eu",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1134,
+      "label": "lawandcrime.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1113,
+      "label": "thelibertarianrepublic.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1173,
+      "label": "noisyroom.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1171,
+      "label": "campconstitution.net",
+      "totalArticles": 541,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 541
+    },
+    {
+      "id": 1120,
+      "label": "turcopolier.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1167,
+      "label": "www.ntd.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1124,
+      "label": "www.theepochtimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 41,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1112,
+      "label": "virutron.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1117,
+      "label": "nationalinterest.org",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1168,
+      "label": "bwcentral.org",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1121,
+      "label": "www.cnsnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1582,
+      "label": "www.bnnbloomberg.ca",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1151,
+      "label": "tennesseestar.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1157,
+      "label": "just-international.org",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1119,
+      "label": "www.chicago.suntimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1312,
+      "label": "www.thepostemail.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1318,
+      "label": "hnewswire.com",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1280,
+      "label": "www.shadowtruth.org",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 180,
+      "label": "headtopics.com",
+      "totalArticles": 0,
+      "amountOfConnections": 52,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1307,
+      "label": "intellectualtakeout.org",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1247,
+      "label": "globalnews.ca",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1311,
+      "label": "wakeupsheeple.net",
+      "totalArticles": 4592,
+      "amountOfConnections": 192,
+      "totalArticlesScraped": 735
+    },
+    {
+      "id": 1286,
+      "label": "www.statnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1248,
+      "label": "www.cbc.ca",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3488,
+      "label": "perfectpeacebaptistchurch.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1200,
+      "label": "adrenogate.net",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1217,
+      "label": "en-volve.com",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1266,
+      "label": "newagora.ca",
+      "totalArticles": 9644,
+      "amountOfConnections": 149,
+      "totalArticlesScraped": 655
+    },
+    {
+      "id": 1208,
+      "label": "janejanejane.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1230,
+      "label": "www.zawya.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1201,
+      "label": "www.foxbusiness.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1186,
+      "label": "www.anarchistfederation.net",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1179,
+      "label": "thenewamericanist.com",
+      "totalArticles": 3356,
+      "amountOfConnections": 168,
+      "totalArticlesScraped": 935
+    },
+    {
+      "id": 1211,
+      "label": "www.prnewswire.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1207,
+      "label": "unshackledminds.com",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1193,
+      "label": "thetattyjournal.org",
+      "totalArticles": 1000,
+      "amountOfConnections": 102,
+      "totalArticlesScraped": 775
+    },
+    {
+      "id": 1222,
+      "label": "defconnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1192,
+      "label": "operationdisclosureofficial.com",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1220,
+      "label": "www.mediaite.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1241,
+      "label": "www.exposingsatanism.org",
+      "totalArticles": 1073,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 125
+    },
+    {
+      "id": 1198,
+      "label": "www.ammoland.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2365,
+      "label": "www.other-news.info",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2032,
+      "label": "www.watchoutnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1600,
+      "label": "www.thefreelibrary.com",
+      "totalArticles": 0,
+      "amountOfConnections": 31,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1602,
+      "label": "today24.pro",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9475,
+      "label": "augustafreepress.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1636,
+      "label": "mishtalk.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 838,
+      "label": "www.gatestoneinstitute.org",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 987,
+      "label": "thenewamerican.com",
+      "totalArticles": 0,
+      "amountOfConnections": 44,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1699,
+      "label": "theimaginativeconservative.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1723,
+      "label": "www.sul-sur.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1725,
+      "label": "sonar21.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1095,
+      "label": "www.ini-world-report.org",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1729,
+      "label": "www.naturalblaze.com",
+      "totalArticles": 0,
+      "amountOfConnections": 36,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1569,
+      "label": "oh17.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1489,
+      "label": "www.riotimesonline.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2033,
+      "label": "www.uglyhedgehog.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1458,
+      "label": "justthenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1490,
+      "label": "mises.org",
+      "totalArticles": 0,
+      "amountOfConnections": 35,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1515,
+      "label": "journal-neo.org",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1513,
+      "label": "247sports.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1481,
+      "label": "nationaladdictionnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3615,
+      "label": "patch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1813,
+      "label": "patriotinsider.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1612,
+      "label": "phys.org",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1710,
+      "label": "studyfinds.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1826,
+      "label": "www.charismanews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1787,
+      "label": "srilankabrief.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1702,
+      "label": "www.albawaba.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1752,
+      "label": "thesuncoastnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1694,
+      "label": "iowaclimate.org",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1609,
+      "label": "www.news18.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1698,
+      "label": "buchanan.org",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1608,
+      "label": "www.highbrowwaterfilters.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1786,
+      "label": "www.indybay.org",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1788,
+      "label": "www.aithiya.lk",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1798,
+      "label": "lankanetnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1800,
+      "label": "drrichswier.com",
+      "totalArticles": 0,
+      "amountOfConnections": 32,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1807,
+      "label": "alphanews.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1808,
+      "label": "breakingdigest.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1810,
+      "label": "adversereactionreport.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1828,
+      "label": "www.wvwnews.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1254,
+      "label": "ipatriot.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1619,
+      "label": "dinarrecaps.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1522,
+      "label": "survivaldan101.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1801,
+      "label": "radiopatriot.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1841,
+      "label": "teapartypac.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1715,
+      "label": "www.postdiscus.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1804,
+      "label": "www.alipac.us",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1855,
+      "label": "peoplesdemocracy.in",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1629,
+      "label": "www.thestar.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1717,
+      "label": "www.wikiwand.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1617,
+      "label": "www.mercurynews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 516,
+      "label": "globalsouthcolloquy.com",
+      "totalArticles": 715,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 580
+    },
+    {
+      "id": 1409,
+      "label": "openbaararchief.nl",
+      "totalArticles": 7,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 7
+    },
+    {
+      "id": 1847,
+      "label": "www.blacklistednews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1848,
+      "label": "www.laprogressive.com",
+      "totalArticles": 0,
+      "amountOfConnections": 29,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1554,
+      "label": "internationalman.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1560,
+      "label": "marketsanity.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1578,
+      "label": "www.odvn.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5340,
+      "label": "www.opinionnigeria.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1764,
+      "label": "medicalxpress.com",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1753,
+      "label": "www.ctvnews.ca",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1556,
+      "label": "analisagold.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1575,
+      "label": "www.corbettreport.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1761,
+      "label": "undergroundnewswire.news",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1763,
+      "label": "lightonlight.education",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1562,
+      "label": "consortiumnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 39,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1757,
+      "label": "groups.io",
+      "totalArticles": 0,
+      "amountOfConnections": 24,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1587,
+      "label": "www.ibtimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1536,
+      "label": "dennisprager.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1579,
+      "label": "sarahwestall.com",
+      "totalArticles": 0,
+      "amountOfConnections": 38,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1584,
+      "label": "www.globalissues.org",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1589,
+      "label": "1newsday.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1590,
+      "label": "bendedreality.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 924,
+      "label": "www.finance.yahoo.com",
+      "totalArticles": 0,
+      "amountOfConnections": 24,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1721,
+      "label": "www.islamicinvitationturkey.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1762,
+      "label": "rupreparing.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1541,
+      "label": "www.exposingtheirlies.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1863,
+      "label": "thegoodlylawfulsociety.org",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1865,
+      "label": "buildingblocksforliberty.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1870,
+      "label": "www.climatedepot.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5341,
+      "label": "techxplore.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1859,
+      "label": "covid19reporter.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1864,
+      "label": "torontosun.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2036,
+      "label": "loveforhispeople.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1057,
+      "label": "www.christianpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2056,
+      "label": "www.prophecynewswatch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2057,
+      "label": "www.zejournal.mobi",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2064,
+      "label": "www.globalsecurity.org",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2055,
+      "label": "readersupportednews.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1873,
+      "label": "heartlanddailynews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1919,
+      "label": "defence.pk",
+      "totalArticles": 0,
+      "amountOfConnections": 26,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1877,
+      "label": "politicalbombshow.com",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1909,
+      "label": "www.wyniasweek.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1878,
+      "label": "consciouslifenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 34,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1931,
+      "label": "www.sbs.com.au",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1885,
+      "label": "www.crisisgroup.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1637,
+      "label": "www.activistpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 73,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1988,
+      "label": "anti-empire.com",
+      "totalArticles": 0,
+      "amountOfConnections": 34,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2006,
+      "label": "us-russia.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1949,
+      "label": "www.garydbarnett.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2008,
+      "label": "www.newsbreak.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1987,
+      "label": "counter-currents.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1989,
+      "label": "soundcloud.com",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2037,
+      "label": "www.algemeiner.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2013,
+      "label": "jacobin.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1991,
+      "label": "www.mintpressnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 31,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1992,
+      "label": "theeconomiccollapseblog.com",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1994,
+      "label": "survivalmagazine.org",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1996,
+      "label": "climatechangedispatch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1997,
+      "label": "vigile.quebec",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2017,
+      "label": "www.moonofalabama.org",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2019,
+      "label": "www.shoah.org.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 40,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2031,
+      "label": "www.indianpunchline.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2040,
+      "label": "flagandcross.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1271,
+      "label": "www.spectator.com.au",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2044,
+      "label": "www.occupyrichmond.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 338,
+      "label": "www.onepoliticalplaza.com",
+      "totalArticles": 1,
+      "amountOfConnections": 38,
+      "totalArticlesScraped": 1
+    },
+    {
+      "id": 2369,
+      "label": "www.digitaljournal.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2930,
+      "label": "www.jta.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2375,
+      "label": "trustedbulletin.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2407,
+      "label": "www.investorvillage.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1060,
+      "label": "rightedition.com",
+      "totalArticles": 0,
+      "amountOfConnections": 31,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2396,
+      "label": "collective-spark.xyz",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2485,
+      "label": "businesspostbd.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2493,
+      "label": "www.democracynow.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2498,
+      "label": "www.nationofchange.org",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2504,
+      "label": "www.ecoi.net",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2520,
+      "label": "otherwords.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2524,
+      "label": "ips-dc.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2533,
+      "label": "yubanet.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2509,
+      "label": "nationalpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1336,
+      "label": "syriasupportmovement.org",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2382,
+      "label": "www.tbsnews.net",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2491,
+      "label": "egbertowillies.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2494,
+      "label": "braveneweurope.com",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2497,
+      "label": "buzzflash.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2505,
+      "label": "nader.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2518,
+      "label": "www.euractiv.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2374,
+      "label": "www.thedailystar.net",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2570,
+      "label": "theiowastandard.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 53,
+      "label": "www.geopolitika.ru",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2565,
+      "label": "www.gloria.tv",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2563,
+      "label": "vnexplorer.net",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1825,
+      "label": "americanmind.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1401,
+      "label": "wakkeren.nl",
+      "totalArticles": 459,
+      "amountOfConnections": 24,
+      "totalArticlesScraped": 459
+    },
+    {
+      "id": 774,
+      "label": "www.foreignpolicyjournal.com",
+      "totalArticles": 42,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 42
+    },
+    {
+      "id": 2186,
+      "label": "goldenageofgaia.com",
+      "totalArticles": 0,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2593,
+      "label": "www.weeklyblitz.net",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2555,
+      "label": "thetruthaboutcancer.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2583,
+      "label": "www.metro.us",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2419,
+      "label": "mltoday.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2420,
+      "label": "sovereignnations.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2422,
+      "label": "www.bitchute.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2580,
+      "label": "www.sammyboy.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2591,
+      "label": "globalnewscap.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2608,
+      "label": "www.publicschoolexit.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2650,
+      "label": "www.nation.com.pk",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2588,
+      "label": "mainstreetdigest.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2221,
+      "label": "thephaser.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2204,
+      "label": "www.ashtarcommandcrew.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2205,
+      "label": "mainerepublicemailreport.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5348,
+      "label": "www.amnesty.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2242,
+      "label": "www.thenews.com.pk",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2210,
+      "label": "consentfactory.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2226,
+      "label": "prepareforchange.net",
+      "totalArticles": 0,
+      "amountOfConnections": 55,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2250,
+      "label": "www.whatsgoingonnews.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2222,
+      "label": "www.thedailybell.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2247,
+      "label": "survivalblog.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2224,
+      "label": "stiriinternationale.ro",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2237,
+      "label": "www.newsghana.com.gh",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2274,
+      "label": "newsnet.fr",
+      "totalArticles": 0,
+      "amountOfConnections": 25,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2275,
+      "label": "londonnews1.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2277,
+      "label": "www.truth11.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2278,
+      "label": "www.blog.nomorefakenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 24,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2281,
+      "label": "kunstler.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2283,
+      "label": "thedailynewnation.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2284,
+      "label": "www.eurekalert.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2287,
+      "label": "mothernature.news",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2288,
+      "label": "www.asia-pacificresearch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2289,
+      "label": "intpolicydigest.org",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2290,
+      "label": "orientalreview.org",
+      "totalArticles": 0,
+      "amountOfConnections": 23,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2291,
+      "label": "snbchf.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2292,
+      "label": "www.arabnews.pk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2293,
+      "label": "mediamonitors.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2297,
+      "label": "neurosciencenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2279,
+      "label": "www.floppingaces.net",
+      "totalArticles": 0,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2305,
+      "label": "www.conservativenewsdaily.net",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2306,
+      "label": "victorhanson.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 13767,
+      "label": "www.geopoliticalmonitor.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2425,
+      "label": "countermarkets.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2557,
+      "label": "greatgameindia.com",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2606,
+      "label": "libertyunyielding.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1037,
+      "label": "www.johnccarleton.org",
+      "totalArticles": 0,
+      "amountOfConnections": 26,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2614,
+      "label": "philosophers-stone.info",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2630,
+      "label": "issuu.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2607,
+      "label": "www.wndnewscenter.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 819,
+      "label": "www.jewishpress.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2638,
+      "label": "www.dhakatribune.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2483,
+      "label": "www.bangkokpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2665,
+      "label": "ultimatewellness.life",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2671,
+      "label": "awaken.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2686,
+      "label": "sbynews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2687,
+      "label": "www.document.no",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2934,
+      "label": "americasfreedomfighters.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3100,
+      "label": "libertyonenews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3077,
+      "label": "settingbrushfires.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3025,
+      "label": "www.optionstradingwizards.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3494,
+      "label": "www.ecowatch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2947,
+      "label": "shiftfrequency.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2713,
+      "label": "news4achange.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2720,
+      "label": "theremnants.info",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2936,
+      "label": "patriotpost.us",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2944,
+      "label": "www.cosmicnews.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2785,
+      "label": "www.worldbank.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2793,
+      "label": "progressivepartyusa.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2738,
+      "label": "dbsjeyaraj.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2718,
+      "label": "www.nationalisti.ro",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2749,
+      "label": "www.anixneuseis.gr",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2753,
+      "label": "geostrategicmedia.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2759,
+      "label": "www.thenationalsentinel.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2765,
+      "label": "scitechdaily.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2773,
+      "label": "www.thedispatch.in",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2786,
+      "label": "visionlaunch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2791,
+      "label": "howiehawkins.us",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2801,
+      "label": "www.thestar.com.my",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2803,
+      "label": "www.danielgreenfield.org",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2804,
+      "label": "politichicks.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2829,
+      "label": "radiationdangers.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2828,
+      "label": "truthpeep.com",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2955,
+      "label": "themindunleashed.com",
+      "totalArticles": 0,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2969,
+      "label": "tomluongo.me",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2971,
+      "label": "www.newsbusters.org",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3092,
+      "label": "www.thehindubusinessline.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1146,
+      "label": "bigleaguepolitics.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2821,
+      "label": "www.uncensored.co.nz",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2822,
+      "label": "martinhladyniuk.com",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2825,
+      "label": "thegoodnewstoday.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2827,
+      "label": "www.thetwist.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2901,
+      "label": "krisenfrei.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2906,
+      "label": "www.coreysdigs.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2911,
+      "label": "americansurvivalgear.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2979,
+      "label": "www.gopusa.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2589,
+      "label": "michaelsavage.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2823,
+      "label": "massive.news",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9487,
+      "label": "www.chiefsplanet.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2816,
+      "label": "theplantstrongclub.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2636,
+      "label": "www.usnn.news",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2826,
+      "label": "www.caseyresearch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2985,
+      "label": "www.dawn.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2902,
+      "label": "www.lebenshaus-alb.de",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2907,
+      "label": "dailynewsbreak.org",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2909,
+      "label": "endoftheamericandream.com",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2910,
+      "label": "stream.org",
+      "totalArticles": 0,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2912,
+      "label": "easyreader.org",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2984,
+      "label": "www.dailysabah.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3702,
+      "label": "foreignpolicynews.org",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2018,
+      "label": "thewallwillfall.org",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3620,
+      "label": "nightwatchman.blog",
+      "totalArticles": 0,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3622,
+      "label": "www.cracknewz.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3505,
+      "label": "soundofheart.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3705,
+      "label": "www.justice.gov",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3718,
+      "label": "www.filmsforaction.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3901,
+      "label": "chroniclesmagazine.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3913,
+      "label": "www.craigmurray.org.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3120,
+      "label": "www.thelastamericanvagabond.com",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3197,
+      "label": "worldfreedomalliance.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3192,
+      "label": "attackthesystem.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3171,
+      "label": "americanpatriotsunite.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3176,
+      "label": "dailyguidenetwork.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3199,
+      "label": "www.kaperville.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3245,
+      "label": "whatdidyousay.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3246,
+      "label": "www.theinteldrop.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3503,
+      "label": "truththeory.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3867,
+      "label": "fourwinds10.com",
+      "totalArticles": 0,
+      "amountOfConnections": 26,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3722,
+      "label": "adinakutnicki.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3504,
+      "label": "www.goodnewsnetwork.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3361,
+      "label": "trusttheq.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3310,
+      "label": "thenewstimesbd.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3735,
+      "label": "www.latestly.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3813,
+      "label": "theeconomiccollapseblog.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3541,
+      "label": "www.karenrajabian.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3536,
+      "label": "www.jagonews24.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1508,
+      "label": "www.fastrope.com",
+      "totalArticles": 1132,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 1132
+    },
+    {
+      "id": 3561,
+      "label": "www.tumblr.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3680,
+      "label": "www.theunitedwest.org",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3879,
+      "label": "www.scribd.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3695,
+      "label": "therundownlive.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 798,
+      "label": "www.financialsurvivalnetwork.com",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2073,
+      "label": "www.hellenicshippingnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3756,
+      "label": "openheartedrebellion.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3925,
+      "label": "ifapray.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3941,
+      "label": "hisglory.me",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3440,
+      "label": "www.propublica.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5359,
+      "label": "www.new.americanprophet.org",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3418,
+      "label": "www.morningstaronline.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3412,
+      "label": "lighthousenewsandmore.org",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3414,
+      "label": "europerenaissance.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3415,
+      "label": "zero5g.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3436,
+      "label": "triblive.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3427,
+      "label": "www.nxtmine.com",
+      "totalArticles": 0,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1557,
+      "label": "goldswitzerland.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3432,
+      "label": "www.gold-eagle.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3443,
+      "label": "www.extremelyamerican.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3470,
+      "label": "scatteredshots.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3742,
+      "label": "www.ecopolresearch.institute",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3743,
+      "label": "www.ronpaullibertyreport.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1585,
+      "label": "patriotssoapbox.com",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3848,
+      "label": "fntalk.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3850,
+      "label": "thefreedomarticles.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3577,
+      "label": "www.aol.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3612,
+      "label": "ucaststudios.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3613,
+      "label": "www.ancientcataclysms.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3707,
+      "label": "yalibnan.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2571,
+      "label": "endtimeheadlines.org",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3953,
+      "label": "financialpost.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4366,
+      "label": "www.greenleft.org.au",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3959,
+      "label": "eurasia.ro",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3955,
+      "label": "progressive.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 891,
+      "label": "tiis.org",
+      "totalArticles": 1375,
+      "amountOfConnections": 438,
+      "totalArticlesScraped": 1110
+    },
+    {
+      "id": 4367,
+      "label": "www.hamptonthink.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4368,
+      "label": "www.siawi.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 218,
+      "label": "thelovefactory.nl",
+      "totalArticles": 365,
+      "amountOfConnections": 15,
+      "totalArticlesScraped": 365
+    },
+    {
+      "id": 1156,
+      "label": "unitedpushback.com",
+      "totalArticles": 41652,
+      "amountOfConnections": 34,
+      "totalArticlesScraped": 745
+    },
+    {
+      "id": 1258,
+      "label": "www.rappler.com",
+      "totalArticles": 54150,
+      "amountOfConnections": 122,
+      "totalArticlesScraped": 820
+    },
+    {
+      "id": 4521,
+      "label": "www.thenewsxpress.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4000,
+      "label": "russia-insider.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 132,
+      "label": "groene-rekenkamer.nl",
+      "totalArticles": 792,
+      "amountOfConnections": 30,
+      "totalArticlesScraped": 460
+    },
+    {
+      "id": 3995,
+      "label": "www.expatica.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4009,
+      "label": "www.geo.tv",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4014,
+      "label": "fos-sa.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4017,
+      "label": "world-signals.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4055,
+      "label": "www.rfa.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4062,
+      "label": "davidswanson.org",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4063,
+      "label": "warisacrime.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4065,
+      "label": "www.envirosagainstwar.org",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4074,
+      "label": "sovereignvision.org",
+      "totalArticles": 0,
+      "amountOfConnections": 10,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4075,
+      "label": "anti5g.net",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4076,
+      "label": "tredeponline.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4082,
+      "label": "www.joynews.co.za",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4085,
+      "label": "wolfstreet.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1001,
+      "label": "www.planet-today.com",
+      "totalArticles": 3000,
+      "amountOfConnections": 334,
+      "totalArticlesScraped": 815
+    },
+    {
+      "id": 4434,
+      "label": "socialistproject.ca",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 462,
+      "label": "opiumaleft.com",
+      "totalArticles": 477,
+      "amountOfConnections": 135,
+      "totalArticlesScraped": 477
+    },
+    {
+      "id": 4474,
+      "label": "vachristian.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4110,
+      "label": "vdare.com",
+      "totalArticles": 0,
+      "amountOfConnections": 24,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6491,
+      "label": "ibw21.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6492,
+      "label": "www.dehai.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1162,
+      "label": "www.jonathan-cook.net",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4189,
+      "label": "human-wrongs-watch.net",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3726,
+      "label": "www.stationgossip.com",
+      "totalArticles": 0,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4222,
+      "label": "freebeacon.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4223,
+      "label": "www.longisland-ny.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3518,
+      "label": "ecosocialistsvancouver.org",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2390,
+      "label": "www.resilience.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4443,
+      "label": "venezuelanalysis.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4253,
+      "label": "ellacruz.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4274,
+      "label": "www.chinadailyhk.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4307,
+      "label": "ukreloaded.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4308,
+      "label": "www.gospanews.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4315,
+      "label": "callingallchristians.net",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4316,
+      "label": "realverifiednews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4465,
+      "label": "politicalemails.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2350,
+      "label": "www.antiwar.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4650,
+      "label": "genzconservative.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5366,
+      "label": "cpmaine.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4676,
+      "label": "radiofree.asia",
+      "totalArticles": 0,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5618,
+      "label": "hoodcommunist.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3947,
+      "label": "guardian.ng",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5377,
+      "label": "struggle-la-lucha.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5386,
+      "label": "newrightnetwork.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5388,
+      "label": "leohohmann.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5392,
+      "label": "grandmageri422.me",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 494,
+      "label": "www.eurasiareview.com",
+      "totalArticles": 44711,
+      "amountOfConnections": 567,
+      "totalArticlesScraped": 750
+    },
+    {
+      "id": 5635,
+      "label": "dailyclout.io",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5815,
+      "label": "www.theprepperdome.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5391,
+      "label": "abyssum.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5638,
+      "label": "greatreject.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5629,
+      "label": "www.thestreet.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5396,
+      "label": "www.trevorloudon.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6003,
+      "label": "www.randyhilarski.weebly.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6005,
+      "label": "www.alai.info",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6009,
+      "label": "mainstreamweekly.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5405,
+      "label": "in5d.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5395,
+      "label": "www.renewamerica.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6984,
+      "label": "www.paynal.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3448,
+      "label": "saintandrewstwinflame.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 324,
+      "label": "c-vine.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4086,
+      "label": "www.hotcopper.com.au",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4730,
+      "label": "irnglobal.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4746,
+      "label": "off-guardian.org",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4750,
+      "label": "www.lokmattimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4754,
+      "label": "clarionindia.net",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4757,
+      "label": "occupyworldwrites.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4759,
+      "label": "redoubtnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4742,
+      "label": "sangam.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5684,
+      "label": "southafricatoday.net",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1485,
+      "label": "madisonarealymesupportgroup.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5710,
+      "label": "scientists4wiredtech.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4845,
+      "label": "thenorthlines.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4889,
+      "label": "gilad.online",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4892,
+      "label": "dailyreckoning.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4908,
+      "label": "www.universallighthouseblog.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6004,
+      "label": "newsmonkey.be",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4979,
+      "label": "edwardcurtin.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5899,
+      "label": "www.viralnewsconnection.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6102,
+      "label": "bravenewworldmedia.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5893,
+      "label": "vimeo.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5429,
+      "label": "www.news24.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1111,
+      "label": "www.capoliticalreview.com",
+      "totalArticles": 0,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5445,
+      "label": "freerepublic.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6017,
+      "label": "coronapolicyimpact.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6028,
+      "label": "www.1news.info",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6097,
+      "label": "www.silver-phoenix500.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4999,
+      "label": "anomalien.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5906,
+      "label": "www.struggle-la-lucha.org",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5100,
+      "label": "telegra.ph",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5479,
+      "label": "www.rsn.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5743,
+      "label": "www.ihr.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6025,
+      "label": "fmjnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5211,
+      "label": "axisofeasy.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5174,
+      "label": "www.fxstreet.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5201,
+      "label": "www.aibafs.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5216,
+      "label": "irannewsdaily.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5480,
+      "label": "politic-news.space",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5483,
+      "label": "www.isds.bilaterals.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6132,
+      "label": "www.bignewsnetwork.com",
+      "totalArticles": 0,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6134,
+      "label": "www.inews.com.ru",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5237,
+      "label": "whosdonaldtrump.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5260,
+      "label": "www.bilaterals.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5526,
+      "label": "peoplesparty.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5803,
+      "label": "guvinn.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5539,
+      "label": "wenyahonline.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6504,
+      "label": "snooze2awaken.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6583,
+      "label": "openyoureyespeoplebreakingnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6625,
+      "label": "stop-imperialism.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6630,
+      "label": "www.unitynewsnetwork.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1308,
+      "label": "www.eurocanadians.ca",
+      "totalArticles": 351,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 351
+    },
+    {
+      "id": 6704,
+      "label": "atlasmonitor.net",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6698,
+      "label": "www.ericpetersautos.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6757,
+      "label": "www.marshallindependent.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6694,
+      "label": "breaking911.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6335,
+      "label": "electronicintifada.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6357,
+      "label": "www.alternativenarrative.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6359,
+      "label": "l-hora.org",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6697,
+      "label": "anncoulter.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6700,
+      "label": "kingworldnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4351,
+      "label": "www.manchestereveningnews.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6666,
+      "label": "www.islam21c.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6445,
+      "label": "ooduarere.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6675,
+      "label": "www.flasshqip.ca",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6676,
+      "label": "www.thecanadafiles.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6577,
+      "label": "anonhq.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6470,
+      "label": "meteor.news",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6472,
+      "label": "kpblog.space",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1486,
+      "label": "cosmoschronicle.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6674,
+      "label": "ericmargolis.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7824,
+      "label": "globalriskcommunity.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 984,
+      "label": "messanonews.com",
+      "totalArticles": 1779,
+      "amountOfConnections": 39,
+      "totalArticlesScraped": 700
+    },
+    {
+      "id": 8409,
+      "label": "www.thedailyplane.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8453,
+      "label": "drkelley.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5351,
+      "label": "www.rnz.co.nz",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6846,
+      "label": "www.newstreason.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1096,
+      "label": "radiochristianity.com",
+      "totalArticles": 520,
+      "amountOfConnections": 124,
+      "totalArticlesScraped": 520
+    },
+    {
+      "id": 6842,
+      "label": "www.newscats.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1110,
+      "label": "www.judicialwatch.org",
+      "totalArticles": 7778,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 955
+    },
+    {
+      "id": 362,
+      "label": "dailyheadlines.com",
+      "totalArticles": 9669,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 575
+    },
+    {
+      "id": 1400,
+      "label": "www.vrijspreker.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8919,
+      "label": "www.the-star.co.ke",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8448,
+      "label": "www.sundayobserver.lk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8668,
+      "label": "sierramadrepreciousmetals.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8454,
+      "label": "taketheredpillpeople.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8642,
+      "label": "truthinplainsight.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6944,
+      "label": "www.9news.com.au",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4036,
+      "label": "www.ocregister.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6956,
+      "label": "nullify.us",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6976,
+      "label": "www.palestinechronicle.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8782,
+      "label": "theoneworldnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7903,
+      "label": "libertydispatch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6701,
+      "label": "www.organicconsumers.org",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7019,
+      "label": "agenceglobal.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7932,
+      "label": "www.tarableu.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8794,
+      "label": "www.startribune.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7093,
+      "label": "politicalvelcraft.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7122,
+      "label": "progresoweekly.us",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7137,
+      "label": "militaryveteransofdisqus.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2819,
+      "label": "globalintelhub.com",
+      "totalArticles": 0,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8335,
+      "label": "www.patriotsfortrump.us",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7981,
+      "label": "republicbroadcasting.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8706,
+      "label": "siawi.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4734,
+      "label": "schiffgold.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8717,
+      "label": "neighborsorganizingagainsttrespassingtechnology.blog",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8691,
+      "label": "www.aninews.in",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7211,
+      "label": "www.governmentpropaganda.net",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7227,
+      "label": "www.criminallegalnews.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7228,
+      "label": "www.rcreader.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7235,
+      "label": "huntforliberty.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7262,
+      "label": "endtimesbuzz.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7273,
+      "label": "www.ghanamma.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7299,
+      "label": "www.usasurvival.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7307,
+      "label": "www.worldviewweekend.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8559,
+      "label": "medforth.biz",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8375,
+      "label": "mychristiandaily.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8553,
+      "label": "www.patitha.lk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4480,
+      "label": "www.mediaboss.net",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8551,
+      "label": "asiacommune.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 4885,
+      "label": "www.dailytimes.com.pk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8194,
+      "label": "onair.press",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8402,
+      "label": "thecommonsenseshow.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8546,
+      "label": "www.vikalpa.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2592,
+      "label": "nemosnewsnetwork.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8405,
+      "label": "www.rlsymmetricanalysis.altervista.org",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7663,
+      "label": "tricentennial.us",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7635,
+      "label": "jordantimes.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7636,
+      "label": "towardfreedom.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 868,
+      "label": "michael-hudson.com",
+      "totalArticles": 278,
+      "amountOfConnections": 21,
+      "totalArticlesScraped": 278
+    },
+    {
+      "id": 7667,
+      "label": "www.tnvalleytalks.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8549,
+      "label": "theleader.lk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2609,
+      "label": "www.dinardaily.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8894,
+      "label": "zero-sum.org",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7683,
+      "label": "birthofanewearthblog.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3445,
+      "label": "americanpatriotnewsletter.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7721,
+      "label": "keepresignationsafe.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 7725,
+      "label": "purposedrivensurvival.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9096,
+      "label": "www.fanverse.org",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9028,
+      "label": "goldseek.com",
+      "totalArticles": 0,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 234,
+      "label": "www.tribute.nu",
+      "totalArticles": 738,
+      "amountOfConnections": 29,
+      "totalArticlesScraped": 605
+    },
+    {
+      "id": 448,
+      "label": "theprint.in",
+      "totalArticles": 83437,
+      "amountOfConnections": 97,
+      "totalArticlesScraped": 680
+    },
+    {
+      "id": 68,
+      "label": "angel-wings.nl",
+      "totalArticles": 8692,
+      "amountOfConnections": 56,
+      "totalArticlesScraped": 1478
+    },
+    {
+      "id": 4116,
+      "label": "imemc.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1576,
+      "label": "vurbl.com",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 327,
+      "label": "speakingaboutnews.com",
+      "totalArticles": 10489,
+      "amountOfConnections": 373,
+      "totalArticlesScraped": 840
+    },
+    {
+      "id": 9105,
+      "label": "intellectualconservative.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9917,
+      "label": "www.desidisa.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 10154,
+      "label": "kashmir.report",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 10179,
+      "label": "truedsicernment.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9109,
+      "label": "kolozeg.org",
+      "totalArticles": 0,
+      "amountOfConnections": 26,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9235,
+      "label": "www.science-ofthe-soul.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9244,
+      "label": "risingtidefoundation.net",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9329,
+      "label": "globalheart.nl",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9776,
+      "label": "www.dailyherald.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 353,
+      "label": "freedomheadlines.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 3793,
+      "label": "justice4poland.com",
+      "totalArticles": 0,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 2683,
+      "label": "www.marketwatch.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 9736,
+      "label": "www.freedom4um.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 861,
+      "label": "hannenabintuherland.com",
+      "totalArticles": 1871,
+      "amountOfConnections": 51,
+      "totalArticlesScraped": 750
+    },
+    {
+      "id": 73,
+      "label": "www.nachdenkseiten.de",
+      "totalArticles": 7622,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 895
+    },
+    {
+      "id": 271,
+      "label": "www.bestebank.org",
+      "totalArticles": 810,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 630
+    },
+    {
+      "id": 390,
+      "label": "www.raialyoum.com",
+      "totalArticles": 161663,
+      "amountOfConnections": 904,
+      "totalArticlesScraped": 930
+    },
+    {
+      "id": 1327,
+      "label": "www.nutritruth.org",
+      "totalArticles": 5742,
+      "amountOfConnections": 203,
+      "totalArticlesScraped": 755
+    },
+    {
+      "id": 10288,
+      "label": "covirusnews.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 314,
+      "label": "gospelnewsnetwork.org",
+      "totalArticles": 19142,
+      "amountOfConnections": 245,
+      "totalArticlesScraped": 685
+    },
+    {
+      "id": 2842,
+      "label": "www.takecare4.eu",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1599,
+      "label": "strangesounds.org",
+      "totalArticles": 0,
+      "amountOfConnections": 8,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 11741,
+      "label": "www.dinamina.lk",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 1289,
+      "label": "balticword.com",
+      "totalArticles": 35715,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 970
+    },
+    {
+      "id": 43,
+      "label": "www.frontnieuws.com",
+      "totalArticles": 9999,
+      "amountOfConnections": 49,
+      "totalArticlesScraped": 970
+    },
+    {
+      "id": 308,
+      "label": "thewashingtonstandard.com",
+      "totalArticles": 20971,
+      "amountOfConnections": 280,
+      "totalArticlesScraped": 795
+    },
+    {
+      "id": 11898,
+      "label": "www.pulse.ng",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 345,
+      "label": "dailyheadlines.net",
+      "totalArticles": 18945,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 785
+    },
+    {
+      "id": 10583,
+      "label": "goldbroker.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 11540,
+      "label": "www.knightstemplarorder.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 10650,
+      "label": "www.minareport.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 694,
+      "label": "wzrost.net",
+      "totalArticles": 118493,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 670
+    },
+    {
+      "id": 10628,
+      "label": "www.zee5.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 10689,
+      "label": "www.gmwatch.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 502,
+      "label": "www.eurasia.ro",
+      "totalArticles": 13447,
+      "amountOfConnections": 224,
+      "totalArticlesScraped": 605
+    },
+    {
+      "id": 11973,
+      "label": "www.eff.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 11606,
+      "label": "www.mondialisation.ca",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6495,
+      "label": "philosophers-stone.info",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 8753,
+      "label": "www.ysb.co.nz",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 6693,
+      "label": "www.gfatf.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 12177,
+      "label": "newcoldwar.org",
+      "totalArticles": 0,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 11277,
+      "label": "www.investigaction.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 11401,
+      "label": "northmantrader.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 11408,
+      "label": "digitalsoldiers.info",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 11422,
+      "label": "conspiracydailyupdate.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 385,
+      "label": "www.metro.co.uk",
+      "totalArticles": 247969,
+      "amountOfConnections": 26,
+      "totalArticlesScraped": 575
+    },
+    {
+      "id": 40,
+      "label": "www.niburu.co",
+      "totalArticles": 4223,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 1305
+    },
+    {
+      "id": 809,
+      "label": "theirishsentinel.com",
+      "totalArticles": 4234,
+      "amountOfConnections": 74,
+      "totalArticlesScraped": 580
+    },
+    {
+      "id": 14228,
+      "label": "www.marketoracle.co.uk",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 100,
+      "label": "www.heise.de",
+      "totalArticles": 10000,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 785
+    },
+    {
+      "id": 528,
+      "label": "www.indiandefencereview.com",
+      "totalArticles": 10225,
+      "amountOfConnections": 44,
+      "totalArticlesScraped": 740
+    },
+    {
+      "id": 960,
+      "label": "www.amren.com",
+      "totalArticles": 10810,
+      "amountOfConnections": 27,
+      "totalArticlesScraped": 850
+    },
+    {
+      "id": 1284,
+      "label": "www.msf.org",
+      "totalArticles": 690,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 690
+    },
+    {
+      "id": 250,
+      "label": "www.stopdebankiers.com",
+      "totalArticles": 8951,
+      "amountOfConnections": 95,
+      "totalArticlesScraped": 760
+    },
+    {
+      "id": 167,
+      "label": "www.groene.nl",
+      "totalArticles": 954,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 795
+    },
+    {
+      "id": 772,
+      "label": "www.lewrockwell.com",
+      "totalArticles": 17182,
+      "amountOfConnections": 347,
+      "totalArticlesScraped": 720
+    },
+    {
+      "id": 13900,
+      "label": "unctad.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 5607,
+      "label": "www.soundmoneydefense.org",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 444,
+      "label": "southasianmonitor.net",
+      "totalArticles": 500,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 500
+    },
+    {
+      "id": 776,
+      "label": "freewestmedia.com",
+      "totalArticles": 2795,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 945
+    },
+    {
+      "id": 1355,
+      "label": "z3news.com",
+      "totalArticles": 6853,
+      "amountOfConnections": 249,
+      "totalArticlesScraped": 755
+    },
+    {
+      "id": 681,
+      "label": "www.catharinaweb.nl",
+      "totalArticles": 683,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 683
+    },
+    {
+      "id": 313,
+      "label": "eraoflight.com",
+      "totalArticles": 10498,
+      "amountOfConnections": 348,
+      "totalArticlesScraped": 985
+    },
+    {
+      "id": 1805,
+      "label": "www.projectveritas.com",
+      "totalArticles": 0,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 277,
+      "label": "www.pensioenactivist.nl",
+      "totalArticles": 2204,
+      "amountOfConnections": 30,
+      "totalArticlesScraped": 782
+    },
+    {
+      "id": 492,
+      "label": "www.socialistaction.net",
+      "totalArticles": 538,
+      "amountOfConnections": 36,
+      "totalArticlesScraped": 538
+    },
+    {
+      "id": 19086,
+      "label": "www.mycopper.net",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 94,
+      "label": "www.paulcraigroberts.org",
+      "totalArticles": 4027,
+      "amountOfConnections": 166,
+      "totalArticlesScraped": 2734
+    },
+    {
+      "id": 897,
+      "label": "www.verywellhealth.com",
+      "totalArticles": 22925,
+      "amountOfConnections": 13,
+      "totalArticlesScraped": 350
+    },
+    {
+      "id": 2890,
+      "label": "darik.news",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 949,
+      "label": "hiram1555.com",
+      "totalArticles": 22518,
+      "amountOfConnections": 95,
+      "totalArticlesScraped": 710
+    },
+    {
+      "id": 491,
+      "label": "www.pressenza.com",
+      "totalArticles": 724,
+      "amountOfConnections": 373,
+      "totalArticlesScraped": 724
+    },
+    {
+      "id": 246,
+      "label": "www.ec.europa.eu",
+      "totalArticles": 868,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 867
+    },
+    {
+      "id": 15422,
+      "label": "www.moneymetals.com",
+      "totalArticles": 0,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 78,
+      "label": "thealtworld.com",
+      "totalArticles": 8885,
+      "amountOfConnections": 245,
+      "totalArticlesScraped": 920
+    },
+    {
+      "id": 823,
+      "label": "www.ronpaulinstitute.org",
+      "totalArticles": 2873,
+      "amountOfConnections": 248,
+      "totalArticlesScraped": 870
+    },
+    {
+      "id": 883,
+      "label": "www.gov.uk",
+      "totalArticles": 518444,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 840
+    },
+    {
+      "id": 18741,
+      "label": "elquanah.com",
+      "totalArticles": 0,
+      "amountOfConnections": 4,
+      "totalArticlesScraped": 0
+    },
+    {
+      "id": 473,
+      "label": "mronline.org",
+      "totalArticles": 4823,
+      "amountOfConnections": 322,
+      "totalArticlesScraped": 800
+    },
+    {
+      "id": 412,
+      "label": "5pillarsuk.com",
+      "totalArticles": 1587,
+      "amountOfConnections": 103,
+      "totalArticlesScraped": 940
+    },
+    {
+      "id": 852,
+      "label": "www.epatienthealthcare.com",
+      "totalArticles": 2608,
+      "amountOfConnections": 196,
+      "totalArticlesScraped": 860
+    },
+    {
+      "id": 128,
+      "label": "www.opednews.com",
+      "totalArticles": 175907,
+      "amountOfConnections": 48,
+      "totalArticlesScraped": 715
+    },
+    {
+      "id": 1394,
+      "label": "www.conservativehq.org",
+      "totalArticles": 1798,
+      "amountOfConnections": 103,
+      "totalArticlesScraped": 865
+    },
+    {
+      "id": 1262,
+      "label": "seemorerocks.is",
+      "totalArticles": 5616,
+      "amountOfConnections": 133,
+      "totalArticlesScraped": 995
+    },
+    {
+      "id": 300,
+      "label": "dcdirtylaundry.com",
+      "totalArticles": 2894,
+      "amountOfConnections": 67,
+      "totalArticlesScraped": 900
+    },
+    {
+      "id": 45,
+      "label": "www.worldunity.me",
+      "totalArticles": 11946,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 817
+    },
+    {
+      "id": 304,
+      "label": "www.bizpacreview.com",
+      "totalArticles": 27763,
+      "amountOfConnections": 46,
+      "totalArticlesScraped": 780
+    },
+    {
+      "id": 294,
+      "label": "thebeltwayreport.com",
+      "totalArticles": 8867,
+      "amountOfConnections": 27,
+      "totalArticlesScraped": 475
+    },
+    {
+      "id": 1132,
+      "label": "canadianpatriot.org",
+      "totalArticles": 3476,
+      "amountOfConnections": 89,
+      "totalArticlesScraped": 1005
+    },
+    {
+      "id": 83,
+      "label": "www.investmentwatchblog.com",
+      "totalArticles": 71303,
+      "amountOfConnections": 211,
+      "totalArticlesScraped": 810
+    },
+    {
+      "id": 1033,
+      "label": "www.myjoyonline.com",
+      "totalArticles": 94971,
+      "amountOfConnections": 115,
+      "totalArticlesScraped": 750
+    },
+    {
+      "id": 796,
+      "label": "jameshfetzer.org",
+      "totalArticles": 994,
+      "amountOfConnections": 453,
+      "totalArticlesScraped": 880
+    },
+    {
+      "id": 523,
+      "label": "landportal.org",
+      "totalArticles": 33181,
+      "amountOfConnections": 60,
+      "totalArticlesScraped": 870
+    },
+    {
+      "id": 1559,
+      "label": "www.philstockworld.com",
+      "totalArticles": 10064,
+      "amountOfConnections": 5,
+      "totalArticlesScraped": 125
+    },
+    {
+      "id": 943,
+      "label": "deqebat.com",
+      "totalArticles": 1440,
+      "amountOfConnections": 222,
+      "totalArticlesScraped": 845
+    },
+    {
+      "id": 789,
+      "label": "www.europereloaded.com",
+      "totalArticles": 7977,
+      "amountOfConnections": 186,
+      "totalArticlesScraped": 880
+    },
+    {
+      "id": 181,
+      "label": "de-ware-wereld.nl",
+      "totalArticles": 1001,
+      "amountOfConnections": 33,
+      "totalArticlesScraped": 805
+    },
+    {
+      "id": 794,
+      "label": "themadtruther.com",
+      "totalArticles": 5757,
+      "amountOfConnections": 84,
+      "totalArticlesScraped": 875
+    },
+    {
+      "id": 1158,
+      "label": "thealterofdeceit.net",
+      "totalArticles": 3392,
+      "amountOfConnections": 123,
+      "totalArticlesScraped": 800
+    },
+    {
+      "id": 1172,
+      "label": "libertysentinel.org",
+      "totalArticles": 1039,
+      "amountOfConnections": 233,
+      "totalArticlesScraped": 700
+    },
+    {
+      "id": 1349,
+      "label": "www.thefire.org",
+      "totalArticles": 10555,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 470
+    },
+    {
+      "id": 495,
+      "label": "brutalproof.net",
+      "totalArticles": 6056,
+      "amountOfConnections": 38,
+      "totalArticlesScraped": 540
+    },
+    {
+      "id": 1235,
+      "label": "jdfor2024.com",
+      "totalArticles": 1728,
+      "amountOfConnections": 131,
+      "totalArticlesScraped": 755
+    },
+    {
+      "id": 439,
+      "label": "www.workplacefairness.org",
+      "totalArticles": 683,
+      "amountOfConnections": 17,
+      "totalArticlesScraped": 683
+    },
+    {
+      "id": 894,
+      "label": "brownstone.org",
+      "totalArticles": 1271,
+      "amountOfConnections": 14,
+      "totalArticlesScraped": 915
+    },
+    {
+      "id": 1155,
+      "label": "conspiracyanalyst.org",
+      "totalArticles": 1001,
+      "amountOfConnections": 77,
+      "totalArticlesScraped": 715
+    },
+    {
+      "id": 486,
+      "label": "peoplesdispatch.org",
+      "totalArticles": 6990,
+      "amountOfConnections": 113,
+      "totalArticlesScraped": 815
+    },
+    {
+      "id": 286,
+      "label": "www.space.com",
+      "totalArticles": 10389,
+      "amountOfConnections": 93,
+      "totalArticlesScraped": 930
+    },
+    {
+      "id": 1379,
+      "label": "newdiscourses.com",
+      "totalArticles": 689,
+      "amountOfConnections": 18,
+      "totalArticlesScraped": 295
+    },
+    {
+      "id": 336,
+      "label": "gunsinthenews.com",
+      "totalArticles": 13154,
+      "amountOfConnections": 31,
+      "totalArticlesScraped": 855
+    },
+    {
+      "id": 1138,
+      "label": "jdfor2020.com",
+      "totalArticles": 2673,
+      "amountOfConnections": 81,
+      "totalArticlesScraped": 815
+    },
+    {
+      "id": 1231,
+      "label": "artfuldilettante.com",
+      "totalArticles": 1001,
+      "amountOfConnections": 196,
+      "totalArticlesScraped": 630
+    },
+    {
+      "id": 380,
+      "label": "stephenlendman.org",
+      "totalArticles": 1001,
+      "amountOfConnections": 27,
+      "totalArticlesScraped": 670
+    },
+    {
+      "id": 1183,
+      "label": "www.survivethenews.com",
+      "totalArticles": 13000,
+      "amountOfConnections": 57,
+      "totalArticlesScraped": 715
+    },
+    {
+      "id": 411,
+      "label": "thehongkongpost.com",
+      "totalArticles": 2609,
+      "amountOfConnections": 183,
+      "totalArticlesScraped": 730
+    },
+    {
+      "id": 818,
+      "label": "anonimus.ro",
+      "totalArticles": 3729,
+      "amountOfConnections": 96,
+      "totalArticlesScraped": 680
+    },
+    {
+      "id": 191,
+      "label": "indignatie.nl",
+      "totalArticles": 2264,
+      "amountOfConnections": 109,
+      "totalArticlesScraped": 800
+    },
+    {
+      "id": 1339,
+      "label": "newkontinent.org",
+      "totalArticles": 1502,
+      "amountOfConnections": 335,
+      "totalArticlesScraped": 590
+    },
+    {
+      "id": 452,
+      "label": "dissidentvoice.org",
+      "totalArticles": 6058,
+      "amountOfConnections": 308,
+      "totalArticlesScraped": 840
+    },
+    {
+      "id": 1232,
+      "label": "wentworthreport.com",
+      "totalArticles": 6454,
+      "amountOfConnections": 159,
+      "totalArticlesScraped": 610
+    },
+    {
+      "id": 1257,
+      "label": "truthnewsnet.org",
+      "totalArticles": 1009,
+      "amountOfConnections": 88,
+      "totalArticlesScraped": 830
+    },
+    {
+      "id": 406,
+      "label": "katehon.com",
+      "totalArticles": 23964,
+      "amountOfConnections": 127,
+      "totalArticlesScraped": 990
+    },
+    {
+      "id": 821,
+      "label": "freedomminds.com",
+      "totalArticles": 1001,
+      "amountOfConnections": 16,
+      "totalArticlesScraped": 760
+    },
+    {
+      "id": 771,
+      "label": "www.thepoliticalcesspool.org",
+      "totalArticles": 2194,
+      "amountOfConnections": 11,
+      "totalArticlesScraped": 570
+    },
+    {
+      "id": 1393,
+      "label": "silview.media",
+      "totalArticles": 406,
+      "amountOfConnections": 9,
+      "totalArticlesScraped": 406
+    },
+    {
+      "id": 817,
+      "label": "www.thelibertybeacon.com",
+      "totalArticles": 23505,
+      "amountOfConnections": 257,
+      "totalArticlesScraped": 935
+    },
+    {
+      "id": 370,
+      "label": "www.eutimes.net",
+      "totalArticles": 4557,
+      "amountOfConnections": 218,
+      "totalArticlesScraped": 950
+    },
+    {
+      "id": 364,
+      "label": "outragedpatriot.com",
+      "totalArticles": 2574,
+      "amountOfConnections": 68,
+      "totalArticlesScraped": 714
+    },
+    {
+      "id": 458,
+      "label": "groundviews.org",
+      "totalArticles": 940,
+      "amountOfConnections": 79,
+      "totalArticlesScraped": 840
+    },
+    {
+      "id": 1108,
+      "label": "coercioncode.com",
+      "totalArticles": 1001,
+      "amountOfConnections": 39,
+      "totalArticlesScraped": 760
+    },
+    {
+      "id": 75,
+      "label": "caitlinjohnstone.com",
+      "totalArticles": 1035,
+      "amountOfConnections": 66,
+      "totalArticlesScraped": 795
+    },
+    {
+      "id": 307,
+      "label": "lidblog.com",
+      "totalArticles": 2943,
+      "amountOfConnections": 91,
+      "totalArticlesScraped": 745
+    },
+    {
+      "id": 86,
+      "label": "rielpolitik.com",
+      "totalArticles": 1001,
+      "amountOfConnections": 59,
+      "totalArticlesScraped": 810
+    },
+    {
+      "id": 679,
+      "label": "cafeastrology.com",
+      "totalArticles": 6171,
+      "amountOfConnections": 20,
+      "totalArticlesScraped": 1085
+    },
+    {
+      "id": 1329,
+      "label": "www.codepink.org",
+      "totalArticles": 7514,
+      "amountOfConnections": 80,
+      "totalArticlesScraped": 705
+    },
+    {
+      "id": 1314,
+      "label": "messanonews.com",
+      "totalArticles": 1779,
+      "amountOfConnections": 62,
+      "totalArticlesScraped": 690
+    },
+    {
+      "id": 902,
+      "label": "themuslimtimes.info",
+      "totalArticles": 13759,
+      "amountOfConnections": 221,
+      "totalArticlesScraped": 555
+    },
+    {
+      "id": 302,
+      "label": "www.sgtreport.com",
+      "totalArticles": 68933,
+      "amountOfConnections": 281,
+      "totalArticlesScraped": 775
+    },
+    {
+      "id": 79,
+      "label": "www.srilankaguardian.org",
+      "totalArticles": 3000,
+      "amountOfConnections": 206,
+      "totalArticlesScraped": 628
+    },
+    {
+      "id": 296,
+      "label": "rightwingtribune.com",
+      "totalArticles": 1385,
+      "amountOfConnections": 86,
+      "totalArticlesScraped": 800
+    },
+    {
+      "id": 440,
+      "label": "www.alternet.org",
+      "totalArticles": 632,
+      "amountOfConnections": 31,
+      "totalArticlesScraped": 632
+    },
+    {
+      "id": 278,
+      "label": "pastoorgeudens.com",
+      "totalArticles": 1000,
+      "amountOfConnections": 41,
+      "totalArticlesScraped": 865
+    },
+    {
+      "id": 187,
+      "label": "time2wakeup.me",
+      "totalArticles": 5471,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 860
+    },
+    {
+      "id": 1337,
+      "label": "www.medicalnewstoday.com",
+      "totalArticles": 18006,
+      "amountOfConnections": 45,
+      "totalArticlesScraped": 820
+    },
+    {
+      "id": 804,
+      "label": "www.greanvillepost.com",
+      "totalArticles": 4479,
+      "amountOfConnections": 194,
+      "totalArticlesScraped": 460
+    },
+    {
+      "id": 1070,
+      "label": "planetfreewill.news",
+      "totalArticles": 1613,
+      "amountOfConnections": 64,
+      "totalArticlesScraped": 605
+    },
+    {
+      "id": 251,
+      "label": "sta-pal.nl",
+      "totalArticles": 1767,
+      "amountOfConnections": 19,
+      "totalArticlesScraped": 835
+    },
+    {
+      "id": 1543,
+      "label": "www.visualcapitalist.com",
+      "totalArticles": 1885,
+      "amountOfConnections": 49,
+      "totalArticlesScraped": 850
+    },
+    {
+      "id": 44,
+      "label": "www.apokalypsnu.nl",
+      "totalArticles": 79824,
+      "amountOfConnections": 244,
+      "totalArticlesScraped": 1026
+    },
+    {
+      "id": 322,
+      "label": "conservativefiringline.com",
+      "totalArticles": 9400,
+      "amountOfConnections": 169,
+      "totalArticlesScraped": 880
+    },
+    {
+      "id": 312,
+      "label": "www.wakingtimes.com",
+      "totalArticles": 4448,
+      "amountOfConnections": 158,
+      "totalArticlesScraped": 700
+    },
+    {
+      "id": 1399,
+      "label": "ademvrij.nu",
+      "totalArticles": 414,
+      "amountOfConnections": 7,
+      "totalArticlesScraped": 75
+    },
+    {
+      "id": 800,
+      "label": "alethonews.com",
+      "totalArticles": 1000,
+      "amountOfConnections": 80,
+      "totalArticlesScraped": 635
+    },
+    {
+      "id": 400,
+      "label": "www.counterpunch.org",
+      "totalArticles": 16302,
+      "amountOfConnections": 138,
+      "totalArticlesScraped": 810
+    },
+    {
+      "id": 185,
+      "label": "worldunity.me",
+      "totalArticles": 11946,
+      "amountOfConnections": 6,
+      "totalArticlesScraped": 1006
+    },
+    {
+      "id": 311,
+      "label": "thefreethoughtproject.com",
+      "totalArticles": 2331,
+      "amountOfConnections": 180,
+      "totalArticlesScraped": 820
+    },
+    {
+      "id": 534,
+      "label": "www.thebanglaherald.com",
+      "totalArticles": 5015,
+      "amountOfConnections": 31,
+      "totalArticlesScraped": 705
+    },
+    {
+      "id": 349,
+      "label": "ratherexposethem.org",
+      "totalArticles": 1887,
+      "amountOfConnections": 22,
+      "totalArticlesScraped": 880
+    },
+    {
+      "id": 1261,
+      "label": "truthcomestolight.com",
+      "totalArticles": 5006,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 840
+    },
+    {
+      "id": 1133,
+      "label": "read-right.com",
+      "totalArticles": 1412,
+      "amountOfConnections": 42,
+      "totalArticlesScraped": 710
+    },
+    {
+      "id": 489,
+      "label": "www.lankabusinessonline.com",
+      "totalArticles": 16110,
+      "amountOfConnections": 50,
+      "totalArticlesScraped": 630
+    },
+    {
+      "id": 135,
+      "label": "scientias.nl",
+      "totalArticles": 4091,
+      "amountOfConnections": 12,
+      "totalArticlesScraped": 500
+    },
+    {
+      "id": 438,
+      "label": "www.newsclick.in",
+      "totalArticles": 39320,
+      "amountOfConnections": 27,
+      "totalArticlesScraped": 720
+    }
+  ],
+  "links": [
+    {
+      "source": 184,
+      "target": 18220,
+      "amountOfCopies": 1,
+      "similarities": [
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/autisme/item34071",
+          "foundUrl": "https://integraalmedischcentrum.nl/kennisbank-imc/autisme/",
+          "score": 0.7562036,
+          "originalDate": "2020-12-15T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    },
+    {
+      "source": 184,
+      "target": 21478,
+      "amountOfCopies": 1,
+      "similarities": [
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blaashalsvernauwing/item34701",
+          "foundUrl": "http://www.szf.sr/gezondheidsencyclopedie/glossary/b/blaashalsvernauwing/",
+          "score": 0.83993405,
+          "originalDate": "2021-01-03T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    },
+    {
+      "source": 184,
+      "target": 5996,
+      "amountOfCopies": 21,
+      "similarities": [
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/alcoholische-neuropathie/item34269",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/n/neuropathie-alcoholisch-alcoholische-neuropathie/",
+          "score": 0.90084827,
+          "originalDate": "2020-12-07T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/alkaptonurie/item34287",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/a/alkaptonurie-ochronose/",
+          "score": 0.9290733,
+          "originalDate": "2020-12-08T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/angio-oedeem/item42306",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/q/quinckes-oedeem-angio-oedeem-quincke-syndroom-urticaria/",
+          "score": 0.75589263,
+          "originalDate": "2022-04-04T22:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/baarmoedermonderosie/item34440",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/baarmoedermonderosie-ectropion-van-de-baarmoedermond/",
+          "score": 0.92115957,
+          "originalDate": "2022-04-07T22:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/baarmoedermonderosie/behandeling/item34441",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/baarmoedermonderosie-ectropion-van-de-baarmoedermond/",
+          "score": 0.8538929,
+          "originalDate": "2022-04-07T22:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/beenmergontsteking/item34485",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/beenmergontsteking-osteomyelitis/",
+          "score": 0.9335894,
+          "originalDate": "2020-12-30T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/bijbalcyste/item34593",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/t/testikelcyste-bijbalcyste/",
+          "score": 0.833593,
+          "originalDate": "2022-05-12T22:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/bindweefselgezwel/item34683",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/bindweefselgezwel/",
+          "score": 0.7590837,
+          "originalDate": "2021-01-03T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blaasirritatie/behandeling/item34711",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/blaasirritatie/",
+          "score": 0.7535111,
+          "originalDate": "2021-01-03T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/binnenoorontsteking/item32262",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/o/otitis-interna-binnenoorontsteking/",
+          "score": 0.9710997,
+          "originalDate": "2022-04-07T22:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blaasdivertikel/behandeling/item42316",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/blaasdivertikel/",
+          "score": 0.81978464,
+          "originalDate": "2021-01-03T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blaasdivertikel/item42315",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/blaasdivertikel/",
+          "score": 0.8458828,
+          "originalDate": "2021-11-29T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blarenkoorts/behandeling/item34756",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/blarenkoorts-pemphigus/",
+          "score": 0.92586035,
+          "originalDate": "2021-01-31T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blauw-oog/item32181",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/blauw-oog-periorbitaal-hematoom/",
+          "score": 0.8162245,
+          "originalDate": "2023-01-05T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blarenkoorts/item34755",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/blarenkoorts-pemphigus/",
+          "score": 0.95672655,
+          "originalDate": "2021-01-31T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/blauwzucht/behandeling/item34765",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/blauwzucht-cyanose/",
+          "score": 0.7688093,
+          "originalDate": "2021-01-31T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/boezemtussenschot-defect/item34989",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/a/atriumseptumdefect-boezemtussenschot-defect/",
+          "score": 0.87928164,
+          "originalDate": "2021-03-14T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/botbreuk-en-vertraagde-genezing/item40407",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/botbreuk-en-vertraagde-genezing/",
+          "score": 0.7016064,
+          "originalDate": "2021-08-05T22:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/botverweking/item35097",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/botverweking-osteomalacie/",
+          "score": 0.92646384,
+          "originalDate": "2021-03-17T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/buikverwonding/item35142",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/buikverwonding/",
+          "score": 0.95194465,
+          "originalDate": "2021-03-18T23:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.gezondheidsplein.nl/aandoeningen/buikwandbreuk/item41901",
+          "foundUrl": "https://www.szf.sr/gezondheidsencyclopedie/glossary/b/buikwandbreuk-hernia-abdominalis/",
+          "score": 0.81889206,
+          "originalDate": "2022-04-03T22:00:00Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    },
+    {
+      "source": 14963,
+      "target": 541,
+      "amountOfCopies": 1,
+      "similarities": [
+        {
+          "originalUrl": "https://www.einnews.com/pr_news/595584950/fast-track-designation-request-performance",
+          "foundUrl": "https://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/fast-track-designation-request-performance",
+          "score": 0.98422545,
+          "originalDate": "2022-10-12T20:43:34Z",
+          "foundDate": "2023-01-09T00:08:00Z",
+          "originalLan": "english",
+          "foundLan": "english"
+        }
+      ]
+    },
+    {
+      "source": 6054,
+      "target": 240,
+      "amountOfCopies": 1,
+      "similarities": [
+        {
+          "originalUrl": "https://extra.toto.nl/dominant-feyenoord-rekent-af-met-pec-zwolle-in-beker-3-1/",
+          "foundUrl": "https://www.rtlnieuws.nl/sport/voetbal",
+          "score": 0.7453059,
+          "originalDate": "2023-01-12T22:05:01Z",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    },
+    {
+      "source": 240,
+      "target": 243,
+      "amountOfCopies": 4,
+      "similarities": [
+        {
+          "originalUrl": "https://www.rtlnieuws.nl/sport/voetbal",
+          "foundUrl": "https://www.zeelandnet.nl/nieuws/dominant-feyenoord-rekent-af-met-pec-zwolle-in-beker-3-1",
+          "score": 0.7727554,
+          "originalDate": "0001-01-01T00:00:00",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.rtlnieuws.nl/sport/voetbal",
+          "foundUrl": "https://www.zeelandnet.nl/nieuws/heerenveen-wint-van-volendam-en-bekert-verder",
+          "score": 0.77449644,
+          "originalDate": "0001-01-01T00:00:00",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.rtlnieuws.nl/sport/voetbal",
+          "foundUrl": "https://www.zeelandnet.nl/nieuws/uitschakeling-in-league-cup-wake-up-call-voor-manchester-city",
+          "score": 0.7563613,
+          "originalDate": "0001-01-01T00:00:00",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.rtlnieuws.nl/sport/voetbal",
+          "foundUrl": "https://www.zeelandnet.nl/nieuws/amateurs-de-treffers-zorgen-voor-bekerstunt-tegen-cambuur",
+          "score": 0.7723445,
+          "originalDate": "0001-01-01T00:00:00",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    },
+    {
+      "source": 2414,
+      "target": 437,
+      "amountOfCopies": 1,
+      "similarities": [
+        {
+          "originalUrl": "https://www.financialmirror.com/2020/01/18/action-and-imagery-in-the-middle-east-may-be-worth-it/",
+          "foundUrl": "http://michaelczinkota.com/?p=9726",
+          "score": 0.9976956,
+          "originalDate": "2020-01-18T09:00:49Z",
+          "foundDate": "2020-01-18T18:30:37Z",
+          "originalLan": "english",
+          "foundLan": "english"
+        }
+      ]
+    },
+    {
+      "source": 714,
+      "target": 3890,
+      "amountOfCopies": 1,
+      "similarities": [
+        {
+          "originalUrl": "https://www.annenei.nl/astrologie/wat-is-astrologie/",
+          "foundUrl": "https://divinaessentia.nl/astrologie/",
+          "score": 0.7651623,
+          "originalDate": "0001-01-01T00:00:00",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    },
+    {
+      "source": 631,
+      "target": 1668,
+      "amountOfCopies": 1,
+      "similarities": [
+        {
+          "originalUrl": "https://www.op-wintersport.nl/goede-zonnebril-kind",
+          "foundUrl": "https://bergfamilie.nl/goede-zonnebril-kind/",
+          "score": 0.7017156,
+          "originalDate": "2020-10-08T08:00:12Z",
+          "foundDate": "2020-11-15T08:00:00Z",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    },
+    {
+      "source": 622,
+      "target": 161,
+      "amountOfCopies": 2,
+      "similarities": [
+        {
+          "originalUrl": "https://www.huisarts.nl/vragen-en-antwoord/blaasjesmet-zwart-puntjes-in-het-midden/",
+          "foundUrl": "https://support.microsoft.com/nl-nl/windows/blijf-op-de-hoogte-met-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4",
+          "score": 0.74064714,
+          "originalDate": "0001-01-01T00:00:00",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        },
+        {
+          "originalUrl": "https://www.huisarts.nl/vragen-en-antwoord/blaasjesmet-zwart-puntjes-in-het-midden/",
+          "foundUrl": "https://support.microsoft.com/nl-nl/windows/blijf-op-de-hoogte-van-nieuws-en-interesses-a39baa08-7488-4169-9ed8-577238f46f8f",
+          "score": 0.73262405,
+          "originalDate": "0001-01-01T00:00:00",
+          "foundDate": "0001-01-01T00:00:00",
+          "originalLan": "dutch",
+          "foundLan": "dutch"
+        }
+      ]
+    }
+  ]
+}

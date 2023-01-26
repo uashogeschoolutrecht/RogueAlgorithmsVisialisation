@@ -1,55 +1,58 @@
 import { useLoadGraph } from "@react-sigma/core";
+import { useLayoutCirclepack } from "@react-sigma/layout-circlepack";
+import { useLayoutForce } from "@react-sigma/layout-force";
 import { useLayoutForceAtlas2 } from "@react-sigma/layout-forceatlas2";
-import { calculateNewValue } from "@testing-library/user-event/dist/utils";
 import { MultiDirectedGraph } from "graphology";
-import { useEffect } from "react";
-import { useSelector } from "react-redux";
+
+import { useEffect, useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { data } from "vis-network";
+import { setShow } from "../../slice/modal/modalSlice";
 import { RootState } from "../../store/store";
-import { calculateEgdeValue, calculateNodeValue, calculateTotalLinks, getColor, getRandomPosition, getTotalTypesOfLinks } from "../../utils/graphUtils";
+import { calculateEgdeValue, calculateNodeValue, calculateTotalLinks,  getColor, getRandomPosition, getTotalTypesOfLinks } from "../../utils/graphUtils";
 
-
-export const Graph = () => {
+export default () => {
     const graph = useSelector((state: RootState) => state.pReducer.graphSlice.graph)
     const loadGraph = useLoadGraph();
-    const { positions, assign } = useLayoutForceAtlas2();
-    
+    const { assign } = useLayoutCirclepack();
+    const dispatch = useDispatch();
+
     useEffect(() => {
-      // Create the graph     
-        const Multigraph = new MultiDirectedGraph();
-        graph.nodes.forEach(node => Multigraph.addNode(node.id, 
-            {
-                ...getRandomPosition(), 
-                ...node,
-            }, ));
-        const scores = Multigraph.nodes().map((node) => Multigraph.getNodeAttribute(node, "amountOfConnections"));      
-        const similaritiesCountList = graph.links.map(edge => edge.similarities.length);
-        const minEdgeDegree = Math.min(...similaritiesCountList);
-        const maxEgdeDegree = Math.max(...similaritiesCountList)
-        const minNodeDegree = Math.min(...scores);
-        const maxNodeDegree = Math.max(...scores);
-            
-        graph.links.forEach(link => Multigraph.addDirectedEdgeWithKey(`${link.source}-${link.target}`, link.source, link.target, 
-            {   
-                // weight: calculateEgdeValue(link.similarities.length, minEdgeDegree, maxEgdeDegree), 
-                size: calculateEgdeValue(link.similarities.length, minEdgeDegree, maxEgdeDegree)
-            }));
+      const Multigraph = new MultiDirectedGraph();
+      graph.nodes.forEach(node => Multigraph.addNode(node.id, 
+      {
+        ...getRandomPosition(), 
+        ...node,
+      }));        
+      console.log("Adding nodes");
+      const scores = Multigraph.nodes().map((node) => Multigraph.getNodeAttribute(node, "amountOfConnections"));      
+      const similaritiesCountList = graph.links.map(edge => edge.similarities.length);
+      const minEdgeDegree = Math.min(...similaritiesCountList);
+      const maxEgdeDegree = Math.max(...similaritiesCountList)
+      const minNodeDegree = Math.min(...scores);
+      const maxNodeDegree = Math.max(...scores);
 
-        Multigraph.forEachNode(node => {
-            Multigraph.setNodeAttribute(node, "size",
-                calculateNodeValue(
-                    (Multigraph.getNodeAttribute(node, "amountOfConnections") / 3 ) + calculateTotalLinks(node, graph), minNodeDegree, maxNodeDegree)
-            );
-            let links = getTotalTypesOfLinks(node, graph);
-            Multigraph.setNodeAttribute(node, "color",
-                   getColor(links.source, links.target) 
-            );
-        }
-        );        
-
+      console.log("Adding edges");
+      graph.links.forEach(link => Multigraph.addDirectedEdgeWithKey(`${link.source}-${link.target}`, link.source, link.target, 
+          {   
+              // weight: calculateEgdeValue(link.similarities.length, minEdgeDegree, maxEgdeDegree), 
+              size: calculateEgdeValue(link.similarities.length, minEdgeDegree, maxEgdeDegree)
+          }));
+      console.log("Setting size and color");
+      Multigraph.forEachNode(node => {
+        Multigraph.setNodeAttribute(node, "size",
+          calculateNodeValue(
+            (Multigraph.getNodeAttribute(node, "amountOfConnections") / 4 ) + calculateTotalLinks(node, graph), minNodeDegree, maxNodeDegree)
+        );
+        let links = getTotalTypesOfLinks(node, graph);
+        Multigraph.setNodeAttribute(node, "color",
+          getColor(links.source, links.target) 
+        );
+      });
       loadGraph(Multigraph);
       assign();
-      
-    }, [assign, loadGraph, graph]);
+      dispatch(setShow({show:false, type:""}))
+    }, [graph]);
 
     return null;
   };

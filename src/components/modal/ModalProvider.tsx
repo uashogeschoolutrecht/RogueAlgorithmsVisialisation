@@ -9,6 +9,7 @@ import { setShow } from "../../slice/modal/modalSlice";
 import { RootState } from "../../store/store";
 import { NodeInfo } from "./NodeInfo";
 import { EdgeInfo } from "./EdgeInfo";
+import { Waiting } from "./Waiting";
 
 const style = {
     position: 'absolute' as 'absolute',
@@ -41,8 +42,10 @@ export const ModalProvider = ({children}: {children: React.ReactNode}) => {
                 return <NodeInfo/>
             case "edge":
                 return <EdgeInfo />
+            case "wait":
+                return <Waiting />
             default:
-                break;
+                return null;
         }
     }
 
@@ -54,6 +57,7 @@ export const ModalProvider = ({children}: {children: React.ReactNode}) => {
             BackdropProps={{
                   timeout: 500,
             }}
+            className={state.show.type}
             aria-labelledby="modal-modal-title"
             aria-describedby="modal-modal-description">
             <Fade in={state.show.show}>

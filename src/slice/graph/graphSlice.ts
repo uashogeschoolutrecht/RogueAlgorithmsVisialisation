@@ -1,15 +1,17 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { NetworkGraph } from "../../types/types";
-import data from "../../Data/databasedata.json";
+import data from "../../Data/graph-filtered-2.json";
 
 interface IGraph {
     graph: NetworkGraph;
-    sessionGraph: NetworkGraph;
+    isRendering: boolean
+    // sessionGraph: NetworkGraph;
 }
 
 const initialState: IGraph = {
     graph: data,
-    sessionGraph: data
+    isRendering: true
+    // sessionGraph: data
 }
 
 const graphSlice = createSlice({
@@ -23,9 +25,12 @@ const graphSlice = createSlice({
       clearGraph: (state) => {
         state.graph = data
       },
+      setRendering:(state) => {
+        state.isRendering = false
+      }
     }
   })
 
-export const { setGraph, clearGraph } = graphSlice.actions
+export const { setGraph, clearGraph, setRendering } = graphSlice.actions
 
 export default graphSlice.reducer

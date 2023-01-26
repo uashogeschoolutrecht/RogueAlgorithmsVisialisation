@@ -24,7 +24,9 @@ export const NodeInfo: FC<NodeInfoProps> = (props) => {
             <h1>{state.website.label}</h1>
             <div className="similarities-container">
                 <div className="container">
-                    <h3>Original post:</h3>
+                    <h3>{state.graph.links.filter(link => link.source === state.website.id)
+                        .map(link => link.similarities)
+                        .reduce((prev, current) => prev.concat(current)).length} Original post:</h3>
                     <div className="similarity-container">
                         {state.graph.links.filter(link => link.source === state.website.id)
                         .map(link => link.similarities.map( 
@@ -38,7 +40,9 @@ export const NodeInfo: FC<NodeInfoProps> = (props) => {
                     </div>
                 </div>
                 <div className="container">
-                    <h3>Copied post:</h3>
+                    <h3>{state.graph.links.filter(link => link.target === state.website.id)
+                        .map(link => link.similarities)
+                        .reduce((prev, current) => prev.concat(current)).length} Copied post:</h3>
                     <div className="similarity-container">
                         {state.graph.links.filter(link => link.target === state.website.id)
                         .map(link => link.similarities.map( 

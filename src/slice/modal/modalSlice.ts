@@ -1,8 +1,12 @@
 import { createSlice } from "@reduxjs/toolkit"
 
-const initialState = {
-  show: false,
-  type: "",
+type state = {
+  show: boolean,
+  type: "wait" | "website" | "edge"
+}
+const initialState : state = {
+  show: true,
+  type: "wait",
 }
 
 const modalSlice = createSlice({

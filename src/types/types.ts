@@ -4,7 +4,8 @@ export type WebsiteNode = {
     id: number;
     label: string
     totalArticles: number,
-    amountOfConnections: number
+    amountOfConnections: number,
+    totalArticlesScraped?: number    
 }
 export type Edge = {
     source: number;

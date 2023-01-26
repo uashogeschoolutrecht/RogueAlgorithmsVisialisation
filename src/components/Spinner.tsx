@@ -6,7 +6,7 @@ export default function Spinner() {
     <div className="spinner-container">
       <div className="loading-spinner">
       </div>
-      The network graph is loading. This may take a while.
+      <p>The network graph is loading. This may take a while.</p>
     </div>
   );
 }

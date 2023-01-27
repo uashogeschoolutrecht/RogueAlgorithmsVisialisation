@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { NetworkGraph } from "../../types/types";
-import data from "../../Data/graph-filtered-2.json";
+import data from "../../Data/graph-with-total-similarities.json";
 
 interface IGraph {
     graph: NetworkGraph;

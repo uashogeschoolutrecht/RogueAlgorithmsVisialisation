@@ -2,6 +2,7 @@ import { useLoadGraph } from "@react-sigma/core";
 import { useLayoutCirclepack } from "@react-sigma/layout-circlepack";
 import { useLayoutForce } from "@react-sigma/layout-force";
 import { useLayoutForceAtlas2 } from "@react-sigma/layout-forceatlas2";
+import { useLayoutNoverlap } from "@react-sigma/layout-noverlap";
 import { MultiDirectedGraph } from "graphology";
 
 import { useEffect, useState } from "react";
@@ -14,7 +15,7 @@ import { calculateEgdeValue, calculateNodeValue, calculateTotalLinks,  getColor,
 export default () => {
     const graph = useSelector((state: RootState) => state.pReducer.graphSlice.graph)
     const loadGraph = useLoadGraph();
-    const { assign } = useLayoutCirclepack();
+    const { assign } = useLayoutNoverlap();
     const dispatch = useDispatch();
 
     useEffect(() => {
@@ -25,7 +26,7 @@ export default () => {
         ...node,
       }));        
       console.log("Adding nodes");
-      const scores = Multigraph.nodes().map((node) => Multigraph.getNodeAttribute(node, "amountOfConnections"));      
+      const scores = Multigraph.nodes().map((node) => Multigraph.getNodeAttribute(node, "totalSimilarities"));      
       const similaritiesCountList = graph.links.map(edge => edge.similarities.length);
       const minEdgeDegree = Math.min(...similaritiesCountList);
       const maxEgdeDegree = Math.max(...similaritiesCountList)
@@ -42,7 +43,8 @@ export default () => {
       Multigraph.forEachNode(node => {
         Multigraph.setNodeAttribute(node, "size",
           calculateNodeValue(
-            (Multigraph.getNodeAttribute(node, "amountOfConnections") / 4 ) + calculateTotalLinks(node, graph), minNodeDegree, maxNodeDegree)
+            (Multigraph.getNodeAttribute(node, "totalSimilarities") + Multigraph.getNodeAttribute(node, "amountOfConnections") ) 
+            + calculateTotalLinks(node, graph), minNodeDegree, maxNodeDegree)
         );
         let links = getTotalTypesOfLinks(node, graph);
         Multigraph.setNodeAttribute(node, "color",

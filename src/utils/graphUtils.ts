@@ -2,8 +2,8 @@ import { MultiDirectedGraph } from "graphology";
 import { GREY } from "../types/colors";
 import { NetworkGraph } from "../types/types";
 
-const MIN_NODE_SIZE = 1;
-const MAX_NODE_SIZE = 20;
+const MIN_NODE_SIZE = 2;
+const MAX_NODE_SIZE = 30;
 const MIN_EDGE_SIZE = 1;
 const MAX_EDGE_SIZE = 4;
 

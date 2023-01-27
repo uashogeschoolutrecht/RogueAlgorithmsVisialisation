@@ -5,7 +5,8 @@ export type WebsiteNode = {
     label: string
     totalArticles: number,
     amountOfConnections: number,
-    totalArticlesScraped?: number    
+    totalArticlesScraped?: number, 
+    totalSimilarities?: number
 }
 export type Edge = {
     source: number;

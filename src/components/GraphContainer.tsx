@@ -6,8 +6,6 @@ import { MultiDirectedGraph } from "graphology";
 import { Legend } from "./Legend";
 import React from "react";
 import Spinner from "./Spinner";
-import { LayoutForceAtlas2Control } from "@react-sigma/layout-forceatlas2";
-import { LayoutForceControl } from "@react-sigma/layout-force";
 // @ts-ignore
 const LazyGraph = React.lazy(() => import('./graph/Graph'));
 export const Graphcontainer = () => {

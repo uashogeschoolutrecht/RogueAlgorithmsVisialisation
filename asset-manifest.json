@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RogueAlgorithmsVisialisation/static/css/main.92e25d71.css",
-    "main.js": "/RogueAlgorithmsVisialisation/static/js/main.5352ad63.js",
-    "static/js/883.70651530.chunk.js": "/RogueAlgorithmsVisialisation/static/js/883.70651530.chunk.js",
+    "main.css": "/RogueAlgorithmsVisialisation/static/css/main.81b2d917.css",
+    "main.js": "/RogueAlgorithmsVisialisation/static/js/main.f4f08eae.js",
+    "static/js/298.5dbd246f.chunk.js": "/RogueAlgorithmsVisialisation/static/js/298.5dbd246f.chunk.js",
     "static/media/hogeschool-utrecht-logo-black-and-white.png": "/RogueAlgorithmsVisialisation/static/media/hogeschool-utrecht-logo-black-and-white.d238ffe8c87e2d626fed.png",
     "index.html": "/RogueAlgorithmsVisialisation/index.html",
-    "main.92e25d71.css.map": "/RogueAlgorithmsVisialisation/static/css/main.92e25d71.css.map",
-    "main.5352ad63.js.map": "/RogueAlgorithmsVisialisation/static/js/main.5352ad63.js.map",
-    "883.70651530.chunk.js.map": "/RogueAlgorithmsVisialisation/static/js/883.70651530.chunk.js.map"
+    "main.81b2d917.css.map": "/RogueAlgorithmsVisialisation/static/css/main.81b2d917.css.map",
+    "main.f4f08eae.js.map": "/RogueAlgorithmsVisialisation/static/js/main.f4f08eae.js.map",
+    "298.5dbd246f.chunk.js.map": "/RogueAlgorithmsVisialisation/static/js/298.5dbd246f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92e25d71.css",
-    "static/js/main.5352ad63.js"
+    "static/css/main.81b2d917.css",
+    "static/js/main.f4f08eae.js"
   ]
 }

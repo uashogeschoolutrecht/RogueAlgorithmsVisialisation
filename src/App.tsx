@@ -9,7 +9,7 @@ const App = () =>{
       <header className='App-header'>
         <ToolBar />
       </header>
-      <main className='App-container'>
+      <main className='App-container' contextMenu="return false;">
         <ModalProvider>
           <Graphcontainer />
         </ModalProvider>

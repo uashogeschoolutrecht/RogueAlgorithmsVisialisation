@@ -23,6 +23,7 @@ export const EdgeInfo: FC<EdgeInfoProps> = (props) => {
         <div className="inner">
             <div className="header">
                 <div className="website-link"><h2>Source: <u>{getWebsite(state.edge.source)?.label}</u></h2></div>
+                <strong className="from-to-pointer">-{">"}</strong>
                 <div className="website-link"><h2>Target: {getWebsite(state.edge.target)?.label}</h2></div>
             </div>
             <div className="similarity-container">

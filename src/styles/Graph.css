@@ -31,7 +31,7 @@ p {
     padding-left: 0.2rem;
 }
 
-.article-wrapper .header-row{
+.article-wrapper .header-row, .inner .header{
     display: grid;
     grid-template-columns: 1fr 20px 1fr;
     grid-gap: 0.5rem;
@@ -40,6 +40,16 @@ p {
 .wait .MuiBox-root {
     width: 25vw;
     height: 25vh;
+}
+.from-to-pointer {
+    white-space:nowrap;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }
 .compare-button {
     position: relative;

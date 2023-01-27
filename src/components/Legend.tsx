@@ -43,7 +43,18 @@ export const Legend = () => {
                 </div>    
                 <div className="legend-row">
                     <p>The larger the node the more total similarities it has.</p>
-                </div>     
+                </div> 
+                <div className="legend-row">
+                    <p>To view the similarities between 2 nodes:</p>
+                    
+                </div>
+                <div className="legend-row">
+                <p>- Hold <code>ctrl</code> while clicking on a node to select it.</p>
+                </div>   
+
+                <div className="legend-row">
+                    <p>- Hold <code>shift</code> while on a empty space to clear the selection</p>
+                </div>  
             </> 
             }    
         </div>

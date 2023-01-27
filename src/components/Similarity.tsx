@@ -38,9 +38,9 @@ export const Similarity: FC<NodeInfoProps> = (props) => {
         }
         w.document.body.innerHTML = `
             <div className="row" style="display: grid;grid-template-columns: 1fr 1fr;grid-gap: 1rem;height:100%;">
-                <iframe src=${props.similarity.originalUrl} title="Original article" width="100%" height="100%">
+                <iframe src=${props.similarity.originalUrl} id="original" title="Original article" width="100%" height="100%">
                 </iframe>
-                <iframe src=${props.similarity.foundUrl} title="Found article" width="100%" height="100%">
+                <iframe src=${props.similarity.foundUrl} id="found"  title="Found article" width="100%" height="100%">
                 </iframe>
             </div>`;
     }
@@ -48,11 +48,12 @@ export const Similarity: FC<NodeInfoProps> = (props) => {
     return(
         <div className="similarity">
             <div className="article-wrapper">
-                <div className="row">
+                <div className="row header-row">
                     <strong>{getWebsite(props.sourceWebsite)?.label}</strong>
+                    <strong >-{">"}</strong>
                     <strong>{getWebsite(props.targetWebsite)?.label}</strong>
                 </div>
-                <button onClick={compareArticles}>Compare the two articles</button>
+                <button className="compare-button" onClick={compareArticles}>Compare the two articles</button>
                 {!isComparing && <>
                     <strong>Link to: </strong>
                     <div className="row">

@@ -93,11 +93,13 @@ export const SelectedNodes: FC<EdgeInfoProps> = (props) => {
                         <RepeatIcon />
                     </IconButton>
                 </Tooltip>
-                <Tooltip title={getTitle()} disableInteractive={link == null}>
+                {link !== null &&
+                    <Tooltip title={getTitle()} disableInteractive={link == null}>
                     <IconButton onClick={handleModal}>
                         <OpenInBrowserIcon />
                     </IconButton>
-                </Tooltip>
+                    </Tooltip>
+                }
             </div>
         </div>
     );

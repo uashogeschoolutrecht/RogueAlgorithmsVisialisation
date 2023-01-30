@@ -30,7 +30,8 @@ export const EdgeInfo: FC<EdgeInfoProps> = (props) => {
             {state.edge.similarities.map(sim => 
                 <Similarity similarity={sim} key={sim.originalUrl+ sim.foundUrl} 
                     link={state.edge} 
-                    heading=""/> 
+                    heading=""
+                    showHeader={false}/> 
                     )}            
             </div>     
         </div>

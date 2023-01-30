@@ -34,7 +34,8 @@ export const NodeInfo: FC<NodeInfoProps> = (props) => {
                             link={link} 
                             sourceWebsite={link.source}
                             targetWebsite={link.target}
-                            heading="Website who copied: "/> 
+                            heading="Website who copied: "
+                            showHeader={true}/> 
                             )         
                         )}
                     </div>
@@ -50,7 +51,8 @@ export const NodeInfo: FC<NodeInfoProps> = (props) => {
                             link={link} 
                             sourceWebsite={link.source}
                             targetWebsite={link.target}
-                            heading="Copied from: " /> 
+                            heading="Copied from: " 
+                            showHeader={true}/> 
                             )         
                         )}
                     </div>

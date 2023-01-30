@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { setEdge } from "../../slice/edge/edgeSlice";
 import { setShow } from "../../slice/modal/modalSlice";
+import { addNode, clearNodes, setFromNode, setToNode } from "../../slice/selectedNode/selectedNodesSlice";
 import { setWebsite } from "../../slice/website/websiteSlice";
 import { RootState } from "../../store/store";
 
@@ -14,7 +15,8 @@ export const GraphEvents = () => {
     const setSettings = useSetSettings();
     const [hoveredNode, setHoveredNode] = useState<string | null>(null);
     const [hoveredEdge, setHoveredEgde] = useState<string | null>(null);
-    const [nodes, setNodes] = useState<{fromNode: string | null, toNode: string | null}>({fromNode: null,toNode: null});
+    const nodes = useSelector((state: RootState) => ({
+      nodes: state.pReducer.selectedNodesSlice  }))
     const sigma = useSigma();
     const graph = sigma.getGraph();
     const dispatch = useDispatch();
@@ -36,18 +38,19 @@ export const GraphEvents = () => {
       dispatch(setEdge(selected)); 
       dispatch(setShow({show:true, type:"edge"}));       
     }
+    const IsNodeNull = () => {
+      console.log(nodes.nodes)
+      if(nodes.nodes.from == null) return true;
+
+      return false;
+    }
     useEffect(() => {
       // Register the events
       registerEvents({
         // node events
         clickNode: (event) => {
           if(event.event.original.ctrlKey){
-            if(nodes.fromNode == null){
-              setNodes({fromNode: event.node, toNode: nodes.toNode});
-            }else{
-              setNodes({fromNode: nodes.fromNode, toNode: event.node});
-              GetInfoOfEdge(Number.parseInt(nodes.fromNode), Number.parseInt(nodes.toNode ?? event.node));
-            }
+            dispatch(addNode(event.node))
           }else{
             GetInfoOfNode(Number.parseInt(event.node));
           }
@@ -59,13 +62,6 @@ export const GraphEvents = () => {
         leaveNode: (event) => {
             setHoveredNode(null);
         },
-        click: (event) => {
-          
-          if(event.original.shiftKey){
-            setNodes({fromNode: null,toNode: null});
-          }
-          
-        },
         // edge events
         clickEdge: (event) => {
             GetInfoOfEdge(
@@ -73,14 +69,15 @@ export const GraphEvents = () => {
               Number.parseInt(event.edge.split('-')[1]));
         },
         enterEdge: (event) => {          
-          setHoveredEgde(event.edge)},
+          setHoveredEgde(event.edge)
+        },
         leaveEdge: (event) => setHoveredEgde(null),
         // sigma kill
         kill: () => console.log("kill"),
         // sigma camera update
         // updated: (event) => ,
         });
-      }, [registerEvents, sigma, nodes]);
+      }, [registerEvents, sigma, dispatch]);
 
     useEffect(() => {
         setSettings({
@@ -88,7 +85,7 @@ export const GraphEvents = () => {
             const graph = sigma.getGraph();
             const newData: Attributes = { ...data, highlighted: data.highlighted || false };  
             
-            if(node === nodes.fromNode || node === nodes.toNode){
+            if(node === nodes.nodes.from || node === nodes.nodes.to){
               newData.highlighted = true;
             }
             if (!hoveredNode && !hoveredEdge) {
@@ -130,7 +127,7 @@ export const GraphEvents = () => {
             return newData;
           }
         });
-      }, [hoveredNode, hoveredEdge, setSettings, sigma, graph, nodes]);
+      }, [hoveredNode, hoveredEdge, setSettings, sigma, graph, nodes.nodes]);
 
     return null;
 }

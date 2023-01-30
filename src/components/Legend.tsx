@@ -51,10 +51,6 @@ export const Legend = () => {
                 <div className="legend-row">
                 <p>- Hold <code>ctrl</code> while clicking on a node to select it.</p>
                 </div>   
-
-                <div className="legend-row">
-                    <p>- Hold <code>shift</code> while on a empty space to clear the selection</p>
-                </div>  
             </> 
             }    
         </div>

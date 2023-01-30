@@ -10,6 +10,7 @@ export interface NodeInfoProps {
     heading: string;
     targetWebsite?: number | undefined;
     sourceWebsite?: number | undefined;
+    showHeader: boolean;
 }
 
 export const Similarity: FC<NodeInfoProps> = (props) => {
@@ -48,11 +49,13 @@ export const Similarity: FC<NodeInfoProps> = (props) => {
     return(
         <div className="similarity">
             <div className="article-wrapper">
+                { props.showHeader &&
                 <div className="row header-row">
                     <strong>{getWebsite(props.sourceWebsite)?.label}</strong>
                     <strong >-{">"}</strong>
                     <strong>{getWebsite(props.targetWebsite)?.label}</strong>
                 </div>
+                }
                 <button className="compare-button" onClick={compareArticles}>Compare the two articles</button>
                 {!isComparing && <>
                     <strong>Link to: </strong>

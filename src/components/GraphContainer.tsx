@@ -6,6 +6,7 @@ import { MultiDirectedGraph } from "graphology";
 import { Legend } from "./Legend";
 import React from "react";
 import Spinner from "./Spinner";
+import { SelectedNodes } from "./SelectedNodes";
 // @ts-ignore
 const LazyGraph = React.lazy(() => import('./graph/Graph'));
 export const Graphcontainer = () => {
@@ -26,6 +27,9 @@ export const Graphcontainer = () => {
             
             <ControlsContainer position={"top-right"}>
                 <SearchControl style={{ width: "250px"}} />
+            </ControlsContainer>
+            <ControlsContainer position={"top-left"}>
+                <SelectedNodes style={{ width: "250px", textAlign: "center"}}  />
             </ControlsContainer>
             <ControlsContainer position={"bottom-right"}>
                 <ZoomControl />

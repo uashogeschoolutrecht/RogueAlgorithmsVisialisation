@@ -10,3 +10,7 @@ React webapp to visualize the data from Roque algorithms.
 when you made your changes:
 1. create pull request or push to the reposiroty
 2. To intergrate it in the website run: `npm run deploy`
+
+## TODO
+1. Add usermanual pdf:
+    in src/components/Toobar.tsx at line 57 add the link to a pdf

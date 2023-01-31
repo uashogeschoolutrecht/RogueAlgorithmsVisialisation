@@ -2,6 +2,7 @@ import { IconButton, Tooltip } from "@mui/material";
 import DeleteIcon from '@mui/icons-material/Delete';
 import RepeatIcon from '@mui/icons-material/Repeat';
 import OpenInBrowserIcon from '@mui/icons-material/OpenInBrowser';
+import WebAssetOffIcon from '@mui/icons-material/WebAssetOff';
 import { useSigma } from "@react-sigma/core";
 import { CSSProperties, FC, useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
@@ -10,6 +11,7 @@ import { setShow } from "../slice/modal/modalSlice";
 import { clearNodes, swap } from "../slice/selectedNode/selectedNodesSlice";
 import { RootState } from "../store/store";
 import { Edge } from "../types/types";
+import { red } from "@mui/material/colors";
 
 export interface EdgeInfoProps {
     id?: string;
@@ -93,13 +95,11 @@ export const SelectedNodes: FC<EdgeInfoProps> = (props) => {
                         <RepeatIcon />
                     </IconButton>
                 </Tooltip>
-                {link !== null &&
-                    <Tooltip title={getTitle()} disableInteractive={link == null}>
+                <Tooltip title={getTitle()} disableInteractive={link == null}>
                     <IconButton onClick={handleModal}>
-                        <OpenInBrowserIcon />
+                        {link == null ? <WebAssetOffIcon sx={{ color: red[400] }} /> : <OpenInBrowserIcon /> }
                     </IconButton>
-                    </Tooltip>
-                }
+                </Tooltip>
             </div>
         </div>
     );

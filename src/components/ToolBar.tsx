@@ -52,6 +52,11 @@ export const ToolBar = () => {
                 //     </div>
                 // </div>
             }
+            <div className="link-container">
+                <a href="https://www.hu.nl/onderzoek/projecten/rogue-algoritmes" target={"_blank"}>About</a>
+                <a href="" target={"_blank"}>Help</a>
+            </div>
+            
         </div>
     );
 }

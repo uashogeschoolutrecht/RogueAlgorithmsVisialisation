@@ -28,3 +28,16 @@
 .threshold-container{
     font-size: 15px;
 }
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 0.7rem;
+}
+.link-container a:not(:last-of-type) {
+    border-right: 2px solid #ffffff;
+}
+.link-container {
+    display: flex;
+    justify-content: flex-end;
+}

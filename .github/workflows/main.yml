@@ -20,6 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: npm ci
-
+      
+    - uses: fregante/setup-git-user@v1
     - name: Deploy to GitHub Pages
       run: CI="" npm run deploy

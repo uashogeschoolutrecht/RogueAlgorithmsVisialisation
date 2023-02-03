@@ -8,7 +8,7 @@ React webapp to visualize the data from Roque algorithms.
 
 ## Contribute
 when you made your changes:
-1. create pull request or push to the reposiroty
+1. create pull request or push to the repository
 2. To intergrate it in the website run: `npm run deploy`
 
 ## TODO

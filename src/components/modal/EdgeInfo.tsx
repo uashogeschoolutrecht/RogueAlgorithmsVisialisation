@@ -1,8 +1,7 @@
-import React, { CSSProperties, FC, useEffect } from "react"
+import { CSSProperties, FC } from "react"
 import { useSelector } from "react-redux";
 import { RootState } from "../../store/store";
 import "../../styles/Graph.css";
-import { Similarity as simType } from "../../types/types";
 import { Similarity } from "../Similarity";
 
 export interface EdgeInfoProps {

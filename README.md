@@ -12,5 +12,6 @@ when you made your changes:
 2. To intergrate it in the website run: `npm run deploy`
 
 ## TODO
-1. Add usermanual pdf:
-    in src/components/Toobar.tsx at line 57 add the link to a pdf
+1. Update usermanual pdf:
+    in `src` update the `HandleidingRoguealgorithmsvisualisationtool.pdf` and push it. 
+    make sure you deploy it again

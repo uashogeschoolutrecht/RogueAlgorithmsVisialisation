@@ -5,6 +5,7 @@ import { RootState } from "../store/store";
 import { setGraph } from "../slice/graph/graphSlice";
 import { getGraphWithThreshold } from "../service/services";
 import { Slider, styled } from "@mui/material";
+import manual from "../HandleidingRoguealgorithmsvisualisationtool.pdf";
 
 export const StyledSlider = styled(Slider)({
     color: '#ECECEC'
@@ -54,7 +55,7 @@ export const ToolBar = () => {
             }
             <div className="link-container">
                 <a href="https://www.hu.nl/onderzoek/projecten/rogue-algoritmes" target={"_blank"}>About</a>
-                <a href="" target={"_blank"}>Help</a>
+                <a href={manual} target={"_blank"}>Help</a>
             </div>
             
         </div>

@@ -3,7 +3,6 @@ import DeleteIcon from '@mui/icons-material/Delete';
 import RepeatIcon from '@mui/icons-material/Repeat';
 import OpenInBrowserIcon from '@mui/icons-material/OpenInBrowser';
 import WebAssetOffIcon from '@mui/icons-material/WebAssetOff';
-import { useSigma } from "@react-sigma/core";
 import { CSSProperties, FC, useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { setEdge } from "../slice/edge/edgeSlice";
